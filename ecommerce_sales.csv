@@ -1,0 +1,1001 @@
+Order ID,Order Date,Ship Date,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit,Customer Name,Segment
+OD-2019000,2022-08-02,2022-08-03,West,Furniture,Chairs & Tables,Bookcase,5308.5,4,0.1,877.89,Customer 115,Consumer
+OD-2019001,2023-02-17,2023-02-18,East,Office Supplies,Stationery,Paper Reams,4043.65,3,0.1,955.03,Customer 217,Consumer
+OD-2019002,2019-03-03,2019-03-04,Central,Furniture,Chairs & Tables,Wooden Desk,164.16,5,0.25,6.18,Customer 14,Home Office
+OD-2019003,2020-02-12,2020-02-18,North,Office Supplies,Stationery,Paper Reams,429.4,4,0.1,20.14,Customer 113,Corporate
+OD-2019004,2022-04-21,2022-04-24,North,Furniture,Chairs & Tables,Wooden Desk,21.1,1,0.05,1.28,Customer 175,Corporate
+OD-2019005,2019-11-15,2019-11-17,East,Technology,Gadgets,iPhone 13,205.3,4,0.3,27.31,Customer 195,Consumer
+OD-2019006,2021-01-05,2021-01-12,South,Technology,Gadgets,Bluetooth Headset,271.52,5,0.05,13.92,Customer 23,Home Office
+OD-2019007,2021-07-29,2021-08-03,East,Furniture,Chairs & Tables,Filing Cabinet,30.81,1,0.0,3.67,Customer 283,Corporate
+OD-2019008,2023-08-26,2023-09-01,Central,Office Supplies,Stationery,Stapler,857.6,4,0.15,74.36,Customer 99,Home Office
+OD-2019009,2019-05-23,2019-05-24,South,Office Supplies,Stationery,Pen Set,73.98,1,0.15,11.16,Customer 41,Consumer
+OD-2019010,2023-11-10,2023-11-11,North,Technology,Gadgets,Laptop Pro 15,148.05,2,0.25,31.37,Customer 187,Consumer
+OD-2019011,2021-01-28,2021-01-31,East,Furniture,Chairs & Tables,Bookcase,1806.34,2,0.1,530.89,Customer 88,Home Office
+OD-2019012,2023-02-02,2023-02-04,North,Furniture,Chairs & Tables,Filing Cabinet,2284.47,4,0.15,532.43,Customer 139,Home Office
+OD-2019013,2022-11-10,2022-11-15,East,Furniture,Chairs & Tables,Bookcase,1532.03,5,0.0,326.03,Customer 118,Consumer
+OD-2019014,2023-07-07,2023-07-10,East,Technology,Gadgets,Laptop Pro 15,19.06,1,0.05,3.05,Customer 109,Home Office
+OD-2019015,2023-11-30,2023-12-06,North,Technology,Gadgets,Samsung Galaxy S21,163.71,3,0.1,41.46,Customer 203,Home Office
+OD-2019016,2021-07-28,2021-07-30,West,Technology,Gadgets,Samsung Galaxy S21,4086.77,5,0.0,1262.53,Customer 288,Home Office
+OD-2019017,2020-06-22,2020-06-28,Central,Office Supplies,Stationery,Markers,116.29,4,0.05,27.69,Customer 205,Corporate
+OD-2019018,2020-03-25,2020-03-27,East,Office Supplies,Stationery,Markers,267.06,5,0.0,58.32,Customer 25,Consumer
+OD-2019019,2019-11-10,2019-11-16,Central,Furniture,Chairs & Tables,Filing Cabinet,343.3,3,0.15,77.77,Customer 33,Corporate
+OD-2019020,2021-02-20,2021-02-25,South,Technology,Gadgets,Bluetooth Headset,1638.2,3,0.0,297.83,Customer 284,Consumer
+OD-2019021,2022-10-25,2022-10-31,South,Furniture,Chairs & Tables,Office Table,627.04,3,0.1,145.97,Customer 175,Consumer
+OD-2019022,2020-08-24,2020-08-28,East,Furniture,Chairs & Tables,Filing Cabinet,1070.88,5,0.05,112.84,Customer 135,Home Office
+OD-2019023,2023-04-10,2023-04-12,South,Office Supplies,Stationery,Notebook Pack,1007.95,5,0.0,331.52,Customer 260,Home Office
+OD-2019024,2020-02-12,2020-02-14,Central,Technology,Gadgets,Samsung Galaxy S21,2427.75,5,0.05,266.46,Customer 272,Consumer
+OD-2019025,2022-05-11,2022-05-14,East,Technology,Gadgets,iPhone 13,4871.37,4,0.0,764.27,Customer 186,Corporate
+OD-2019026,2020-05-05,2020-05-06,East,Furniture,Chairs & Tables,Office Table,19.91,1,0.05,5.59,Customer 44,Home Office
+OD-2019027,2021-09-22,2021-09-29,West,Furniture,Chairs & Tables,Office Table,47.57,1,0.05,7.92,Customer 66,Home Office
+OD-2019028,2021-08-31,2021-09-05,Central,Furniture,Chairs & Tables,Bookcase,97.4,5,0.0,32.42,Customer 217,Consumer
+OD-2019029,2022-01-09,2022-01-16,South,Office Supplies,Stationery,Pen Set,76.7,1,0.3,18.19,Customer 205,Home Office
+OD-2019030,2022-08-23,2022-08-26,North,Technology,Gadgets,Bluetooth Headset,101.02,2,0.0,6.17,Customer 62,Consumer
+OD-2019031,2020-04-05,2020-04-06,Central,Technology,Gadgets,iPhone 13,31.52,1,0.0,4.21,Customer 284,Consumer
+OD-2019032,2022-04-20,2022-04-22,East,Furniture,Chairs & Tables,Office Chair,19.96,1,0.0,3.93,Customer 118,Consumer
+OD-2019033,2019-03-06,2019-03-13,Central,Technology,Gadgets,iPhone 13,881.86,4,0.0,236.75,Customer 122,Corporate
+OD-2019034,2022-10-02,2022-10-06,West,Furniture,Chairs & Tables,Office Table,430.01,5,0.05,120.48,Customer 293,Home Office
+OD-2019035,2021-08-26,2021-08-28,West,Technology,Gadgets,Wireless Mouse,507.08,1,0.0,31.56,Customer 49,Consumer
+OD-2019036,2022-09-11,2022-09-15,North,Technology,Gadgets,Wireless Mouse,4771.43,4,0.1,1257.58,Customer 240,Home Office
+OD-2019037,2019-04-21,2019-04-27,East,Office Supplies,Stationery,Notebook Pack,787.9,4,0.1,117.73,Customer 207,Home Office
+OD-2019038,2020-11-25,2020-12-02,West,Furniture,Chairs & Tables,Wooden Desk,586.5,2,0.0,49.29,Customer 98,Home Office
+OD-2019039,2021-07-07,2021-07-09,South,Technology,Gadgets,Samsung Galaxy S21,99.57,2,0.0,34.32,Customer 237,Consumer
+OD-2019040,2023-11-26,2023-11-27,East,Technology,Gadgets,Bluetooth Headset,79.87,4,0.0,25.49,Customer 26,Home Office
+OD-2019041,2022-01-12,2022-01-19,West,Furniture,Chairs & Tables,Office Chair,5926.45,5,0.0,1541.51,Customer 86,Corporate
+OD-2019042,2021-09-21,2021-09-25,East,Furniture,Chairs & Tables,Filing Cabinet,253.67,3,0.15,52.31,Customer 85,Corporate
+OD-2019043,2019-01-05,2019-01-09,South,Technology,Gadgets,Wireless Mouse,58.94,3,0.2,10.94,Customer 217,Home Office
+OD-2019044,2023-02-05,2023-02-12,West,Office Supplies,Stationery,Markers,1624.05,3,0.0,159.55,Customer 98,Corporate
+OD-2019045,2020-03-21,2020-03-22,East,Office Supplies,Stationery,Paper Reams,65.3,2,0.1,6.89,Customer 161,Consumer
+OD-2019046,2019-04-13,2019-04-18,Central,Technology,Gadgets,Bluetooth Headset,74.81,1,0.0,20.49,Customer 81,Consumer
+OD-2019047,2021-11-06,2021-11-07,Central,Furniture,Chairs & Tables,Office Chair,60.7,3,0.05,11.69,Customer 35,Home Office
+OD-2019048,2023-11-01,2023-11-03,Central,Technology,Gadgets,iPhone 13,282.1,5,0.1,73.23,Customer 127,Home Office
+OD-2019049,2022-05-02,2022-05-03,North,Office Supplies,Stationery,Notebook Pack,19.78,1,0.1,2.39,Customer 299,Home Office
+OD-2019050,2021-12-06,2021-12-09,South,Technology,Gadgets,Samsung Galaxy S21,57.52,3,0.3,7.69,Customer 123,Corporate
+OD-2019051,2021-03-21,2021-03-23,North,Office Supplies,Stationery,Stapler,768.02,5,0.0,252.29,Customer 162,Consumer
+OD-2019052,2019-01-20,2019-01-24,East,Office Supplies,Stationery,Paper Reams,106.45,1,0.3,5.41,Customer 38,Home Office
+OD-2019053,2020-03-12,2020-03-17,South,Technology,Gadgets,Samsung Galaxy S21,494.09,5,0.0,96.64,Customer 36,Consumer
+OD-2019054,2021-01-26,2021-01-29,Central,Furniture,Chairs & Tables,Filing Cabinet,1028.94,2,0.15,287.75,Customer 155,Home Office
+OD-2019055,2023-07-11,2023-07-17,Central,Office Supplies,Stationery,Notebook Pack,306.52,2,0.0,42.48,Customer 154,Home Office
+OD-2019056,2019-08-01,2019-08-03,East,Technology,Gadgets,iPhone 13,44.79,2,0.0,11.77,Customer 284,Consumer
+OD-2019057,2020-07-11,2020-07-14,South,Office Supplies,Stationery,Pen Set,4447.49,5,0.15,1172.37,Customer 105,Home Office
+OD-2019058,2022-07-22,2022-07-29,North,Technology,Gadgets,Bluetooth Headset,3804.15,5,0.1,370.73,Customer 129,Consumer
+OD-2019059,2019-07-09,2019-07-15,East,Technology,Gadgets,Laptop Pro 15,203.52,4,0.05,15.12,Customer 2,Corporate
+OD-2019060,2023-04-29,2023-05-01,West,Office Supplies,Stationery,Stapler,1471.51,3,0.3,310.75,Customer 227,Home Office
+OD-2019061,2022-12-16,2022-12-20,East,Office Supplies,Stationery,Notebook Pack,300.02,2,0.0,42.3,Customer 39,Home Office
+OD-2019062,2019-11-02,2019-11-07,Central,Furniture,Chairs & Tables,Bookcase,316.33,3,0.15,30.85,Customer 283,Consumer
+OD-2019063,2021-05-30,2021-06-01,South,Furniture,Chairs & Tables,Bookcase,967.07,5,0.0,202.51,Customer 21,Corporate
+OD-2019064,2020-03-06,2020-03-12,South,Furniture,Chairs & Tables,Office Chair,586.6,3,0.0,199.95,Customer 287,Corporate
+OD-2019065,2022-06-25,2022-07-01,West,Furniture,Chairs & Tables,Wooden Desk,110.9,2,0.0,20.15,Customer 91,Corporate
+OD-2019066,2019-02-20,2019-02-22,North,Office Supplies,Stationery,Stapler,197.37,2,0.0,35.23,Customer 128,Corporate
+OD-2019067,2019-11-23,2019-11-30,North,Office Supplies,Stationery,Notebook Pack,384.66,4,0.2,56.22,Customer 20,Corporate
+OD-2019068,2020-03-31,2020-04-02,South,Technology,Gadgets,Laptop Pro 15,341.08,1,0.1,62.93,Customer 117,Consumer
+OD-2019069,2019-02-18,2019-02-24,South,Furniture,Chairs & Tables,Filing Cabinet,822.01,5,0.0,180.69,Customer 143,Consumer
+OD-2019070,2023-05-03,2023-05-06,North,Technology,Gadgets,Bluetooth Headset,292.21,3,0.0,22.66,Customer 275,Corporate
+OD-2019071,2019-02-26,2019-02-27,Central,Technology,Gadgets,Samsung Galaxy S21,73.88,1,0.0,20.61,Customer 136,Consumer
+OD-2019072,2019-08-11,2019-08-16,South,Technology,Gadgets,Laptop Pro 15,1019.26,5,0.05,237.17,Customer 224,Home Office
+OD-2019073,2021-11-13,2021-11-14,West,Technology,Gadgets,Bluetooth Headset,1823.73,2,0.2,187.14,Customer 131,Consumer
+OD-2019074,2022-12-22,2022-12-26,Central,Furniture,Chairs & Tables,Office Table,1818.7,2,0.05,365.96,Customer 101,Corporate
+OD-2019075,2021-06-02,2021-06-03,Central,Office Supplies,Stationery,Stapler,402.44,5,0.25,100.59,Customer 161,Home Office
+OD-2019076,2023-10-03,2023-10-04,Central,Office Supplies,Stationery,Stapler,5328.91,4,0.1,1064.76,Customer 159,Home Office
+OD-2019077,2021-04-16,2021-04-19,Central,Technology,Gadgets,Laptop Pro 15,22.24,1,0.15,4.5,Customer 66,Consumer
+OD-2019078,2021-05-11,2021-05-17,Central,Technology,Gadgets,Samsung Galaxy S21,21.61,1,0.0,2.86,Customer 292,Corporate
+OD-2019079,2021-04-11,2021-04-16,South,Furniture,Chairs & Tables,Bookcase,114.94,4,0.1,15.62,Customer 108,Corporate
+OD-2019080,2023-05-29,2023-06-03,North,Office Supplies,Stationery,Stapler,616.25,2,0.1,84.41,Customer 227,Corporate
+OD-2019081,2022-10-15,2022-10-17,West,Office Supplies,Stationery,Markers,1573.81,3,0.1,218.84,Customer 44,Corporate
+OD-2019082,2021-11-21,2021-11-27,South,Office Supplies,Stationery,Paper Reams,987.31,3,0.15,112.97,Customer 48,Consumer
+OD-2019083,2022-10-09,2022-10-12,West,Furniture,Chairs & Tables,Wooden Desk,220.02,2,0.15,64.92,Customer 13,Consumer
+OD-2019084,2020-05-16,2020-05-20,North,Office Supplies,Stationery,Notebook Pack,120.0,4,0.1,33.49,Customer 213,Home Office
+OD-2019085,2022-03-24,2022-03-26,North,Office Supplies,Stationery,Markers,108.6,5,0.15,11.21,Customer 205,Consumer
+OD-2019086,2019-10-30,2019-11-05,East,Office Supplies,Stationery,Notebook Pack,21.02,1,0.15,2.61,Customer 218,Consumer
+OD-2019087,2019-12-27,2020-01-03,North,Office Supplies,Stationery,Paper Reams,154.18,3,0.0,49.59,Customer 26,Home Office
+OD-2019088,2020-05-25,2020-06-01,West,Furniture,Chairs & Tables,Filing Cabinet,2027.73,4,0.25,509.74,Customer 238,Home Office
+OD-2019089,2021-12-23,2021-12-28,North,Office Supplies,Stationery,Stapler,2583.28,3,0.05,338.58,Customer 259,Corporate
+OD-2019090,2023-08-29,2023-09-03,North,Technology,Gadgets,Samsung Galaxy S21,81.34,1,0.15,19.88,Customer 231,Corporate
+OD-2019091,2023-03-20,2023-03-22,Central,Office Supplies,Stationery,Stapler,193.65,1,0.05,12.38,Customer 249,Home Office
+OD-2019092,2020-05-04,2020-05-07,South,Technology,Gadgets,iPhone 13,219.48,2,0.05,54.58,Customer 121,Corporate
+OD-2019093,2020-11-18,2020-11-21,West,Office Supplies,Stationery,Notebook Pack,2204.6,4,0.1,159.4,Customer 78,Consumer
+OD-2019094,2021-02-23,2021-03-01,East,Furniture,Chairs & Tables,Wooden Desk,1446.83,5,0.15,322.05,Customer 213,Corporate
+OD-2019095,2020-11-08,2020-11-13,East,Technology,Gadgets,Wireless Mouse,498.32,5,0.1,138.56,Customer 106,Corporate
+OD-2019096,2021-03-08,2021-03-15,Central,Office Supplies,Stationery,Notebook Pack,91.16,4,0.3,17.61,Customer 195,Corporate
+OD-2019097,2019-01-13,2019-01-16,North,Technology,Gadgets,Wireless Mouse,221.09,4,0.1,35.27,Customer 276,Home Office
+OD-2019098,2023-02-13,2023-02-18,North,Office Supplies,Stationery,Pen Set,97.22,2,0.05,4.93,Customer 113,Corporate
+OD-2019099,2021-06-11,2021-06-15,South,Furniture,Chairs & Tables,Filing Cabinet,3514.22,4,0.15,886.68,Customer 208,Home Office
+OD-2019100,2019-12-05,2019-12-12,Central,Technology,Gadgets,Samsung Galaxy S21,53.33,1,0.25,6.5,Customer 274,Consumer
+OD-2019101,2021-03-17,2021-03-22,East,Office Supplies,Stationery,Notebook Pack,561.86,1,0.0,190.45,Customer 220,Consumer
+OD-2019102,2023-11-11,2023-11-15,South,Furniture,Chairs & Tables,Office Chair,383.47,4,0.2,99.93,Customer 195,Corporate
+OD-2019103,2020-03-09,2020-03-13,North,Technology,Gadgets,Laptop Pro 15,217.82,4,0.0,21.75,Customer 143,Corporate
+OD-2019104,2020-05-31,2020-06-07,East,Furniture,Chairs & Tables,Filing Cabinet,21.51,1,0.1,6.2,Customer 277,Consumer
+OD-2019105,2020-12-17,2020-12-19,East,Office Supplies,Stationery,Notebook Pack,1207.43,1,0.25,287.14,Customer 16,Consumer
+OD-2019106,2020-02-13,2020-02-20,West,Furniture,Chairs & Tables,Office Table,1288.83,4,0.0,137.18,Customer 123,Consumer
+OD-2019107,2021-08-27,2021-09-02,West,Furniture,Chairs & Tables,Office Table,612.4,2,0.1,40.41,Customer 239,Home Office
+OD-2019108,2020-06-08,2020-06-15,Central,Technology,Gadgets,Samsung Galaxy S21,86.04,1,0.1,16.33,Customer 59,Consumer
+OD-2019109,2020-09-29,2020-09-30,South,Office Supplies,Stationery,Notebook Pack,111.28,1,0.1,9.89,Customer 295,Home Office
+OD-2019110,2021-02-07,2021-02-11,East,Office Supplies,Stationery,Pen Set,512.98,3,0.1,108.04,Customer 125,Consumer
+OD-2019111,2022-11-28,2022-12-05,East,Technology,Gadgets,Bluetooth Headset,1818.47,2,0.2,92.47,Customer 290,Consumer
+OD-2019112,2020-12-12,2020-12-17,East,Technology,Gadgets,Laptop Pro 15,166.82,1,0.3,11.11,Customer 260,Home Office
+OD-2019113,2020-11-29,2020-11-30,East,Technology,Gadgets,Wireless Mouse,4104.71,5,0.25,931.67,Customer 222,Corporate
+OD-2019114,2022-07-25,2022-08-01,North,Technology,Gadgets,Samsung Galaxy S21,104.37,5,0.05,13.09,Customer 91,Home Office
+OD-2019115,2021-12-04,2021-12-10,Central,Technology,Gadgets,Bluetooth Headset,84.55,4,0.15,23.28,Customer 248,Corporate
+OD-2019116,2021-06-11,2021-06-18,South,Office Supplies,Stationery,Paper Reams,569.48,5,0.15,60.12,Customer 166,Consumer
+OD-2019117,2023-08-29,2023-08-30,West,Technology,Gadgets,Wireless Mouse,22.82,1,0.1,2.44,Customer 238,Home Office
+OD-2019118,2022-06-03,2022-06-09,East,Technology,Gadgets,Laptop Pro 15,322.09,1,0.05,25.72,Customer 254,Corporate
+OD-2019119,2020-01-08,2020-01-12,South,Furniture,Chairs & Tables,Bookcase,1686.5,2,0.15,295.38,Customer 175,Corporate
+OD-2019120,2023-12-08,2023-12-13,Central,Office Supplies,Stationery,Stapler,84.83,4,0.1,23.9,Customer 6,Home Office
+OD-2019121,2020-01-27,2020-01-28,North,Furniture,Chairs & Tables,Filing Cabinet,19.54,1,0.0,5.4,Customer 285,Consumer
+OD-2019122,2022-11-15,2022-11-19,North,Office Supplies,Stationery,Markers,166.65,5,0.2,31.35,Customer 9,Consumer
+OD-2019123,2020-08-25,2020-08-27,South,Technology,Gadgets,Samsung Galaxy S21,321.49,2,0.1,62.63,Customer 298,Corporate
+OD-2019124,2021-08-27,2021-09-01,North,Office Supplies,Stationery,Stapler,91.77,3,0.05,24.86,Customer 282,Corporate
+OD-2019125,2020-12-21,2020-12-27,South,Technology,Gadgets,Laptop Pro 15,843.78,4,0.1,219.42,Customer 129,Consumer
+OD-2019126,2019-09-05,2019-09-11,East,Furniture,Chairs & Tables,Bookcase,671.05,2,0.15,39.85,Customer 275,Home Office
+OD-2019127,2020-01-15,2020-01-17,South,Furniture,Chairs & Tables,Filing Cabinet,161.12,5,0.0,18.16,Customer 269,Home Office
+OD-2019128,2020-08-02,2020-08-03,West,Furniture,Chairs & Tables,Bookcase,3474.62,3,0.0,307.2,Customer 185,Consumer
+OD-2019129,2020-09-11,2020-09-12,West,Office Supplies,Stationery,Paper Reams,490.29,3,0.0,126.96,Customer 141,Consumer
+OD-2019130,2019-04-22,2019-04-27,North,Technology,Gadgets,Samsung Galaxy S21,56.24,1,0.05,18.27,Customer 53,Consumer
+OD-2019131,2022-03-21,2022-03-24,North,Technology,Gadgets,Wireless Mouse,3979.08,5,0.15,519.25,Customer 175,Consumer
+OD-2019132,2019-04-16,2019-04-19,East,Technology,Gadgets,iPhone 13,290.32,2,0.0,54.65,Customer 206,Corporate
+OD-2019133,2019-06-01,2019-06-06,West,Office Supplies,Stationery,Notebook Pack,58.54,2,0.0,8.57,Customer 77,Home Office
+OD-2019134,2020-09-14,2020-09-15,Central,Furniture,Chairs & Tables,Office Chair,1046.23,2,0.1,191.61,Customer 214,Home Office
+OD-2019135,2022-05-05,2022-05-12,Central,Office Supplies,Stationery,Pen Set,60.32,3,0.15,14.07,Customer 195,Corporate
+OD-2019136,2021-06-25,2021-06-28,South,Office Supplies,Stationery,Markers,371.95,5,0.05,69.03,Customer 292,Home Office
+OD-2019137,2019-05-04,2019-05-09,West,Office Supplies,Stationery,Notebook Pack,422.5,2,0.1,26.12,Customer 109,Corporate
+OD-2019138,2022-09-14,2022-09-15,West,Furniture,Chairs & Tables,Wooden Desk,878.96,3,0.1,239.96,Customer 283,Consumer
+OD-2019139,2019-11-17,2019-11-18,Central,Technology,Gadgets,Wireless Mouse,93.55,3,0.05,10.91,Customer 241,Corporate
+OD-2019140,2019-03-08,2019-03-10,North,Technology,Gadgets,Laptop Pro 15,205.09,1,0.0,30.07,Customer 37,Home Office
+OD-2019141,2020-04-23,2020-04-26,West,Office Supplies,Stationery,Paper Reams,1128.11,2,0.1,257.61,Customer 218,Consumer
+OD-2019142,2022-01-20,2022-01-22,South,Office Supplies,Stationery,Pen Set,1574.53,3,0.0,332.43,Customer 73,Consumer
+OD-2019143,2019-05-03,2019-05-05,Central,Technology,Gadgets,Bluetooth Headset,640.38,2,0.1,94.31,Customer 148,Corporate
+OD-2019144,2019-09-12,2019-09-16,North,Office Supplies,Stationery,Stapler,847.45,5,0.1,94.05,Customer 140,Home Office
+OD-2019145,2022-01-10,2022-01-14,Central,Technology,Gadgets,iPhone 13,482.02,3,0.0,38.82,Customer 21,Corporate
+OD-2019146,2023-02-13,2023-02-16,East,Office Supplies,Stationery,Stapler,4644.37,4,0.15,263.3,Customer 47,Consumer
+OD-2019147,2022-10-12,2022-10-19,East,Office Supplies,Stationery,Paper Reams,192.07,1,0.0,49.76,Customer 138,Home Office
+OD-2019148,2019-03-24,2019-03-31,Central,Furniture,Chairs & Tables,Filing Cabinet,171.58,2,0.2,40.51,Customer 227,Corporate
+OD-2019149,2020-01-07,2020-01-12,East,Technology,Gadgets,Wireless Mouse,328.37,1,0.15,74.12,Customer 241,Corporate
+OD-2019150,2021-04-16,2021-04-19,West,Technology,Gadgets,iPhone 13,940.79,3,0.15,89.18,Customer 169,Corporate
+OD-2019151,2022-11-21,2022-11-25,Central,Technology,Gadgets,Wireless Mouse,327.66,2,0.0,88.75,Customer 19,Corporate
+OD-2019152,2019-06-30,2019-07-03,East,Technology,Gadgets,Laptop Pro 15,85.77,4,0.0,19.24,Customer 207,Home Office
+OD-2019153,2023-08-17,2023-08-18,North,Office Supplies,Stationery,Paper Reams,228.18,3,0.1,33.02,Customer 212,Consumer
+OD-2019154,2020-01-20,2020-01-25,North,Technology,Gadgets,Bluetooth Headset,192.53,2,0.3,19.77,Customer 227,Consumer
+OD-2019155,2020-02-21,2020-02-24,South,Office Supplies,Stationery,Pen Set,150.14,2,0.1,37.57,Customer 225,Home Office
+OD-2019156,2021-09-19,2021-09-20,West,Furniture,Chairs & Tables,Office Table,964.1,3,0.15,67.21,Customer 82,Corporate
+OD-2019157,2022-02-02,2022-02-03,East,Office Supplies,Stationery,Markers,146.23,5,0.15,41.2,Customer 116,Consumer
+OD-2019158,2021-08-03,2021-08-04,North,Office Supplies,Stationery,Pen Set,192.66,4,0.15,36.41,Customer 150,Home Office
+OD-2019159,2022-12-15,2022-12-18,North,Technology,Gadgets,Wireless Mouse,1673.38,5,0.15,412.29,Customer 125,Corporate
+OD-2019160,2022-02-02,2022-02-04,Central,Technology,Gadgets,Samsung Galaxy S21,296.18,3,0.0,71.12,Customer 261,Home Office
+OD-2019161,2023-12-06,2023-12-08,North,Furniture,Chairs & Tables,Bookcase,2250.88,4,0.05,630.77,Customer 175,Home Office
+OD-2019162,2020-07-01,2020-07-08,South,Furniture,Chairs & Tables,Bookcase,476.08,3,0.05,100.97,Customer 297,Home Office
+OD-2019163,2021-09-29,2021-10-06,Central,Furniture,Chairs & Tables,Filing Cabinet,20.57,1,0.05,1.37,Customer 248,Corporate
+OD-2019164,2020-11-11,2020-11-16,North,Office Supplies,Stationery,Markers,584.03,3,0.25,104.39,Customer 165,Consumer
+OD-2019165,2022-11-29,2022-12-01,West,Office Supplies,Stationery,Markers,166.32,2,0.1,31.44,Customer 211,Consumer
+OD-2019166,2020-10-13,2020-10-19,North,Technology,Gadgets,Wireless Mouse,258.65,3,0.15,57.62,Customer 78,Corporate
+OD-2019167,2019-03-17,2019-03-19,South,Office Supplies,Stationery,Paper Reams,587.18,3,0.0,155.14,Customer 52,Corporate
+OD-2019168,2019-07-24,2019-07-29,West,Technology,Gadgets,iPhone 13,6605.56,5,0.0,1393.41,Customer 210,Home Office
+OD-2019169,2019-11-13,2019-11-14,South,Technology,Gadgets,Laptop Pro 15,1284.95,4,0.05,258.74,Customer 204,Home Office
+OD-2019170,2019-06-14,2019-06-21,North,Technology,Gadgets,Bluetooth Headset,410.42,5,0.1,89.52,Customer 163,Home Office
+OD-2019171,2023-01-11,2023-01-18,East,Technology,Gadgets,Bluetooth Headset,238.17,3,0.0,36.61,Customer 36,Consumer
+OD-2019172,2022-07-16,2022-07-22,East,Technology,Gadgets,Samsung Galaxy S21,2444.41,3,0.0,432.85,Customer 223,Consumer
+OD-2019173,2023-04-07,2023-04-13,North,Office Supplies,Stationery,Notebook Pack,2353.61,2,0.1,427.39,Customer 86,Home Office
+OD-2019174,2020-09-05,2020-09-06,East,Furniture,Chairs & Tables,Bookcase,19.07,1,0.2,5.03,Customer 151,Corporate
+OD-2019175,2021-02-06,2021-02-10,Central,Furniture,Chairs & Tables,Wooden Desk,332.41,4,0.0,81.58,Customer 211,Home Office
+OD-2019176,2022-10-28,2022-11-04,West,Furniture,Chairs & Tables,Wooden Desk,771.03,1,0.0,62.66,Customer 41,Home Office
+OD-2019177,2023-11-19,2023-11-23,North,Office Supplies,Stationery,Pen Set,169.82,1,0.0,20.51,Customer 299,Consumer
+OD-2019178,2020-04-20,2020-04-24,North,Office Supplies,Stationery,Stapler,146.24,2,0.2,36.38,Customer 131,Home Office
+OD-2019179,2019-01-20,2019-01-27,Central,Technology,Gadgets,Laptop Pro 15,964.42,3,0.05,250.37,Customer 81,Consumer
+OD-2019180,2021-06-23,2021-06-26,North,Office Supplies,Stationery,Stapler,166.13,2,0.1,12.6,Customer 129,Corporate
+OD-2019181,2023-09-28,2023-10-01,North,Furniture,Chairs & Tables,Filing Cabinet,2245.41,4,0.2,340.78,Customer 55,Consumer
+OD-2019182,2021-02-20,2021-02-25,South,Technology,Gadgets,Bluetooth Headset,102.03,3,0.1,5.5,Customer 152,Consumer
+OD-2019183,2023-08-27,2023-09-02,East,Technology,Gadgets,Laptop Pro 15,149.95,3,0.1,13.45,Customer 290,Home Office
+OD-2019184,2023-05-13,2023-05-19,North,Furniture,Chairs & Tables,Office Table,1518.44,5,0.15,172.02,Customer 147,Consumer
+OD-2019185,2022-05-28,2022-06-04,West,Technology,Gadgets,Samsung Galaxy S21,64.96,2,0.0,21.98,Customer 129,Home Office
+OD-2019186,2023-03-28,2023-04-03,East,Office Supplies,Stationery,Pen Set,77.47,1,0.0,27.04,Customer 21,Corporate
+OD-2019187,2023-06-04,2023-06-08,South,Furniture,Chairs & Tables,Office Table,213.82,1,0.0,58.8,Customer 68,Consumer
+OD-2019188,2020-08-27,2020-08-30,West,Office Supplies,Stationery,Markers,1016.65,3,0.0,108.99,Customer 103,Consumer
+OD-2019189,2023-05-30,2023-06-04,Central,Technology,Gadgets,Bluetooth Headset,1601.24,5,0.0,423.08,Customer 140,Consumer
+OD-2019190,2020-06-10,2020-06-17,South,Technology,Gadgets,Laptop Pro 15,63.41,2,0.05,11.99,Customer 59,Corporate
+OD-2019191,2019-06-04,2019-06-06,Central,Furniture,Chairs & Tables,Filing Cabinet,221.94,3,0.2,59.27,Customer 188,Consumer
+OD-2019192,2023-06-08,2023-06-12,Central,Furniture,Chairs & Tables,Bookcase,1807.18,2,0.05,498.26,Customer 64,Corporate
+OD-2019193,2021-01-24,2021-01-30,Central,Office Supplies,Stationery,Stapler,134.81,4,0.05,27.6,Customer 196,Home Office
+OD-2019194,2021-01-30,2021-01-31,North,Office Supplies,Stationery,Pen Set,890.3,3,0.05,193.27,Customer 13,Home Office
+OD-2019195,2023-12-16,2023-12-21,West,Technology,Gadgets,Bluetooth Headset,98.57,1,0.1,10.77,Customer 33,Home Office
+OD-2019196,2023-08-15,2023-08-19,North,Office Supplies,Stationery,Stapler,99.86,2,0.1,27.57,Customer 60,Consumer
+OD-2019197,2019-04-03,2019-04-04,East,Technology,Gadgets,Wireless Mouse,256.25,3,0.0,44.05,Customer 50,Consumer
+OD-2019198,2023-12-23,2023-12-28,North,Furniture,Chairs & Tables,Filing Cabinet,430.66,2,0.15,111.44,Customer 190,Home Office
+OD-2019199,2023-03-02,2023-03-08,Central,Office Supplies,Stationery,Markers,266.65,5,0.05,80.5,Customer 80,Corporate
+OD-2019200,2022-09-03,2022-09-04,North,Technology,Gadgets,Bluetooth Headset,381.44,5,0.15,51.52,Customer 144,Consumer
+OD-2019201,2022-11-14,2022-11-17,North,Furniture,Chairs & Tables,Filing Cabinet,322.45,4,0.05,66.05,Customer 121,Corporate
+OD-2019202,2019-07-23,2019-07-29,South,Technology,Gadgets,Bluetooth Headset,201.78,2,0.25,42.23,Customer 32,Corporate
+OD-2019203,2020-07-19,2020-07-21,East,Furniture,Chairs & Tables,Filing Cabinet,850.52,1,0.3,113.9,Customer 109,Home Office
+OD-2019204,2022-08-02,2022-08-07,South,Furniture,Chairs & Tables,Office Chair,28.63,1,0.0,6.08,Customer 125,Consumer
+OD-2019205,2023-05-31,2023-06-05,Central,Furniture,Chairs & Tables,Office Chair,2503.94,5,0.0,752.38,Customer 107,Home Office
+OD-2019206,2020-03-18,2020-03-25,West,Furniture,Chairs & Tables,Bookcase,3376.44,4,0.0,444.65,Customer 2,Corporate
+OD-2019207,2023-10-25,2023-10-27,South,Furniture,Chairs & Tables,Office Table,509.79,3,0.0,113.66,Customer 90,Consumer
+OD-2019208,2022-09-15,2022-09-22,East,Furniture,Chairs & Tables,Wooden Desk,41.24,2,0.05,10.42,Customer 184,Consumer
+OD-2019209,2022-04-20,2022-04-23,South,Furniture,Chairs & Tables,Wooden Desk,3912.01,5,0.0,508.36,Customer 27,Consumer
+OD-2019210,2023-02-28,2023-03-04,East,Office Supplies,Stationery,Notebook Pack,900.13,3,0.1,160.63,Customer 244,Corporate
+OD-2019211,2023-05-13,2023-05-16,East,Office Supplies,Stationery,Paper Reams,41.35,2,0.05,8.08,Customer 232,Home Office
+OD-2019212,2020-03-29,2020-04-03,South,Furniture,Chairs & Tables,Office Table,329.28,2,0.0,76.05,Customer 235,Home Office
+OD-2019213,2019-03-05,2019-03-06,North,Technology,Gadgets,Wireless Mouse,223.48,2,0.05,68.93,Customer 56,Corporate
+OD-2019214,2022-12-29,2023-01-02,South,Furniture,Chairs & Tables,Office Chair,643.25,3,0.25,81.53,Customer 76,Consumer
+OD-2019215,2019-09-16,2019-09-19,Central,Office Supplies,Stationery,Paper Reams,1489.48,5,0.0,191.67,Customer 167,Corporate
+OD-2019216,2022-05-08,2022-05-13,Central,Technology,Gadgets,Wireless Mouse,216.06,3,0.05,47.01,Customer 221,Consumer
+OD-2019217,2023-06-13,2023-06-19,West,Furniture,Chairs & Tables,Office Table,1104.18,2,0.0,80.1,Customer 221,Corporate
+OD-2019218,2023-12-24,2023-12-26,North,Technology,Gadgets,Laptop Pro 15,20.98,1,0.1,3.41,Customer 205,Corporate
+OD-2019219,2023-02-03,2023-02-04,South,Technology,Gadgets,Wireless Mouse,144.83,3,0.0,49.29,Customer 131,Corporate
+OD-2019220,2019-11-09,2019-11-15,East,Technology,Gadgets,iPhone 13,101.29,2,0.15,29.15,Customer 44,Consumer
+OD-2019221,2021-06-03,2021-06-04,West,Office Supplies,Stationery,Stapler,870.49,1,0.05,62.86,Customer 285,Consumer
+OD-2019222,2022-04-16,2022-04-21,East,Office Supplies,Stationery,Stapler,970.01,3,0.15,220.33,Customer 211,Corporate
+OD-2019223,2023-11-25,2023-12-01,South,Technology,Gadgets,iPhone 13,31.44,1,0.0,10.89,Customer 160,Corporate
+OD-2019224,2019-08-01,2019-08-06,West,Office Supplies,Stationery,Pen Set,3831.54,5,0.1,1129.6,Customer 247,Consumer
+OD-2019225,2023-10-02,2023-10-03,South,Technology,Gadgets,Bluetooth Headset,208.93,2,0.0,18.0,Customer 59,Corporate
+OD-2019226,2022-03-21,2022-03-23,Central,Technology,Gadgets,Bluetooth Headset,56.74,1,0.3,13.24,Customer 286,Consumer
+OD-2019227,2022-06-01,2022-06-07,East,Office Supplies,Stationery,Stapler,167.84,2,0.0,50.13,Customer 93,Corporate
+OD-2019228,2022-12-10,2022-12-17,South,Technology,Gadgets,Laptop Pro 15,298.8,1,0.0,21.84,Customer 4,Consumer
+OD-2019229,2023-11-17,2023-11-19,East,Office Supplies,Stationery,Markers,6107.85,5,0.1,382.63,Customer 73,Home Office
+OD-2019230,2022-07-20,2022-07-21,West,Furniture,Chairs & Tables,Office Table,83.11,1,0.0,19.76,Customer 193,Corporate
+OD-2019231,2021-07-18,2021-07-21,South,Furniture,Chairs & Tables,Bookcase,4501.33,5,0.05,806.43,Customer 167,Home Office
+OD-2019232,2022-05-06,2022-05-07,West,Furniture,Chairs & Tables,Wooden Desk,2699.86,2,0.05,850.82,Customer 26,Home Office
+OD-2019233,2019-06-17,2019-06-20,North,Technology,Gadgets,Wireless Mouse,4138.51,3,0.05,1101.46,Customer 227,Corporate
+OD-2019234,2020-07-13,2020-07-15,South,Office Supplies,Stationery,Notebook Pack,522.98,5,0.1,61.9,Customer 221,Consumer
+OD-2019235,2020-08-03,2020-08-09,North,Office Supplies,Stationery,Paper Reams,774.67,1,0.0,160.17,Customer 270,Home Office
+OD-2019236,2020-09-23,2020-09-24,Central,Furniture,Chairs & Tables,Filing Cabinet,19.44,1,0.05,2.51,Customer 29,Consumer
+OD-2019237,2020-02-23,2020-02-26,South,Furniture,Chairs & Tables,Wooden Desk,119.61,4,0.0,6.62,Customer 149,Corporate
+OD-2019238,2019-09-03,2019-09-04,West,Technology,Gadgets,Wireless Mouse,20.57,1,0.0,6.93,Customer 67,Corporate
+OD-2019239,2021-12-26,2022-01-01,Central,Furniture,Chairs & Tables,Office Table,483.94,5,0.05,144.24,Customer 182,Consumer
+OD-2019240,2021-03-24,2021-03-31,North,Office Supplies,Stationery,Notebook Pack,88.51,3,0.3,7.4,Customer 10,Corporate
+OD-2019241,2019-06-09,2019-06-16,North,Technology,Gadgets,Bluetooth Headset,642.93,4,0.05,72.81,Customer 294,Corporate
+OD-2019242,2022-12-24,2022-12-30,East,Technology,Gadgets,Laptop Pro 15,994.1,2,0.0,282.2,Customer 208,Consumer
+OD-2019243,2020-10-27,2020-10-29,South,Office Supplies,Stationery,Markers,537.98,5,0.0,110.54,Customer 46,Corporate
+OD-2019244,2023-09-26,2023-09-27,Central,Furniture,Chairs & Tables,Filing Cabinet,3376.02,4,0.0,690.65,Customer 206,Home Office
+OD-2019245,2019-06-11,2019-06-15,West,Technology,Gadgets,Laptop Pro 15,39.23,2,0.15,3.91,Customer 171,Consumer
+OD-2019246,2019-06-06,2019-06-11,Central,Office Supplies,Stationery,Notebook Pack,2671.47,5,0.1,186.21,Customer 262,Consumer
+OD-2019247,2023-05-09,2023-05-12,West,Technology,Gadgets,Samsung Galaxy S21,300.94,1,0.0,95.28,Customer 53,Consumer
+OD-2019248,2020-06-08,2020-06-10,West,Furniture,Chairs & Tables,Office Table,33.67,1,0.15,7.06,Customer 39,Consumer
+OD-2019249,2023-05-02,2023-05-08,Central,Technology,Gadgets,Wireless Mouse,5804.38,5,0.05,892.23,Customer 297,Corporate
+OD-2019250,2022-10-26,2022-10-31,South,Office Supplies,Stationery,Paper Reams,287.93,3,0.05,92.63,Customer 162,Consumer
+OD-2019251,2021-06-19,2021-06-20,South,Technology,Gadgets,Wireless Mouse,574.15,5,0.0,180.78,Customer 141,Home Office
+OD-2019252,2019-04-26,2019-04-29,South,Office Supplies,Stationery,Notebook Pack,278.73,5,0.0,70.63,Customer 237,Corporate
+OD-2019253,2019-03-19,2019-03-20,East,Technology,Gadgets,Laptop Pro 15,67.54,3,0.15,14.21,Customer 47,Home Office
+OD-2019254,2022-05-01,2022-05-06,Central,Technology,Gadgets,Wireless Mouse,1348.15,1,0.1,365.34,Customer 284,Home Office
+OD-2019255,2019-03-26,2019-03-30,South,Office Supplies,Stationery,Pen Set,108.6,1,0.1,26.96,Customer 244,Home Office
+OD-2019256,2019-11-05,2019-11-06,South,Technology,Gadgets,iPhone 13,6853.58,5,0.05,2042.61,Customer 44,Home Office
+OD-2019257,2022-08-16,2022-08-18,North,Furniture,Chairs & Tables,Wooden Desk,1782.38,2,0.0,575.01,Customer 225,Home Office
+OD-2019258,2021-12-06,2021-12-11,South,Furniture,Chairs & Tables,Bookcase,159.19,2,0.15,17.27,Customer 145,Corporate
+OD-2019259,2021-04-17,2021-04-24,East,Technology,Gadgets,Bluetooth Headset,2750.97,2,0.1,316.77,Customer 172,Consumer
+OD-2019260,2020-11-06,2020-11-07,South,Office Supplies,Stationery,Markers,1336.48,4,0.0,180.43,Customer 130,Home Office
+OD-2019261,2023-10-11,2023-10-17,South,Office Supplies,Stationery,Pen Set,1142.6,2,0.0,273.98,Customer 42,Home Office
+OD-2019262,2022-09-21,2022-09-23,North,Technology,Gadgets,Laptop Pro 15,853.08,5,0.1,54.01,Customer 67,Home Office
+OD-2019263,2022-12-22,2022-12-23,North,Technology,Gadgets,Bluetooth Headset,66.25,3,0.1,11.45,Customer 169,Consumer
+OD-2019264,2022-10-04,2022-10-10,East,Office Supplies,Stationery,Paper Reams,575.49,2,0.2,157.48,Customer 217,Home Office
+OD-2019265,2021-01-11,2021-01-12,West,Technology,Gadgets,Laptop Pro 15,404.82,5,0.1,60.15,Customer 110,Corporate
+OD-2019266,2023-04-19,2023-04-23,West,Furniture,Chairs & Tables,Wooden Desk,6685.82,5,0.05,1877.74,Customer 80,Consumer
+OD-2019267,2020-08-28,2020-09-04,Central,Furniture,Chairs & Tables,Office Table,2280.49,3,0.0,434.57,Customer 270,Consumer
+OD-2019268,2022-09-17,2022-09-20,Central,Office Supplies,Stationery,Pen Set,77.64,4,0.2,12.93,Customer 193,Consumer
+OD-2019269,2019-11-29,2019-12-01,West,Office Supplies,Stationery,Paper Reams,5964.92,5,0.0,1515.98,Customer 225,Consumer
+OD-2019270,2021-04-21,2021-04-24,North,Office Supplies,Stationery,Pen Set,4045.0,3,0.25,180.18,Customer 146,Home Office
+OD-2019271,2023-05-25,2023-05-29,West,Furniture,Chairs & Tables,Office Table,565.95,5,0.2,153.65,Customer 159,Corporate
+OD-2019272,2023-09-07,2023-09-09,North,Technology,Gadgets,Bluetooth Headset,1557.69,3,0.0,227.77,Customer 237,Corporate
+OD-2019273,2023-05-13,2023-05-17,North,Office Supplies,Stationery,Paper Reams,95.62,2,0.1,13.82,Customer 83,Consumer
+OD-2019274,2023-06-29,2023-07-04,East,Furniture,Chairs & Tables,Bookcase,5489.47,4,0.0,1704.96,Customer 247,Corporate
+OD-2019275,2022-02-09,2022-02-10,East,Office Supplies,Stationery,Paper Reams,1656.28,5,0.15,391.81,Customer 146,Consumer
+OD-2019276,2023-04-12,2023-04-14,Central,Technology,Gadgets,Wireless Mouse,339.71,3,0.25,26.91,Customer 76,Corporate
+OD-2019277,2019-07-07,2019-07-09,East,Technology,Gadgets,Laptop Pro 15,195.01,1,0.1,31.43,Customer 213,Consumer
+OD-2019278,2021-03-22,2021-03-27,North,Technology,Gadgets,Samsung Galaxy S21,159.96,1,0.0,46.27,Customer 42,Corporate
+OD-2019279,2020-04-04,2020-04-05,South,Technology,Gadgets,iPhone 13,57.14,3,0.0,9.59,Customer 75,Consumer
+OD-2019280,2019-03-20,2019-03-23,North,Technology,Gadgets,Samsung Galaxy S21,1683.04,3,0.15,88.53,Customer 230,Home Office
+OD-2019281,2019-01-11,2019-01-12,West,Furniture,Chairs & Tables,Bookcase,881.27,3,0.0,195.0,Customer 77,Home Office
+OD-2019282,2023-01-29,2023-02-03,East,Office Supplies,Stationery,Markers,305.76,4,0.15,86.38,Customer 148,Consumer
+OD-2019283,2020-09-08,2020-09-09,North,Furniture,Chairs & Tables,Wooden Desk,31.71,1,0.2,1.9,Customer 235,Consumer
+OD-2019284,2019-08-16,2019-08-23,Central,Technology,Gadgets,Bluetooth Headset,383.09,5,0.0,131.49,Customer 9,Home Office
+OD-2019285,2021-11-21,2021-11-26,South,Furniture,Chairs & Tables,Wooden Desk,1776.19,2,0.0,178.05,Customer 220,Consumer
+OD-2019286,2022-06-13,2022-06-16,North,Furniture,Chairs & Tables,Office Table,323.19,1,0.1,17.3,Customer 96,Home Office
+OD-2019287,2022-09-30,2022-10-01,East,Office Supplies,Stationery,Stapler,214.52,1,0.0,70.91,Customer 270,Home Office
+OD-2019288,2021-11-05,2021-11-12,East,Office Supplies,Stationery,Paper Reams,152.68,2,0.15,9.61,Customer 200,Corporate
+OD-2019289,2019-03-31,2019-04-06,South,Technology,Gadgets,Laptop Pro 15,320.85,4,0.15,52.98,Customer 9,Corporate
+OD-2019290,2023-06-03,2023-06-04,East,Technology,Gadgets,Samsung Galaxy S21,830.18,1,0.1,170.34,Customer 298,Home Office
+OD-2019291,2023-03-30,2023-04-02,South,Furniture,Chairs & Tables,Office Chair,2248.71,4,0.0,770.77,Customer 280,Corporate
+OD-2019292,2023-07-25,2023-07-31,North,Furniture,Chairs & Tables,Filing Cabinet,1349.24,4,0.05,80.88,Customer 94,Consumer
+OD-2019293,2019-05-10,2019-05-16,South,Technology,Gadgets,iPhone 13,114.5,4,0.1,15.43,Customer 104,Consumer
+OD-2019294,2023-06-09,2023-06-11,South,Furniture,Chairs & Tables,Bookcase,1296.08,1,0.0,329.29,Customer 264,Corporate
+OD-2019295,2023-07-28,2023-08-02,East,Technology,Gadgets,Laptop Pro 15,717.1,5,0.0,135.38,Customer 98,Corporate
+OD-2019296,2021-01-01,2021-01-08,South,Furniture,Chairs & Tables,Bookcase,4394.17,5,0.05,641.95,Customer 64,Corporate
+OD-2019297,2021-06-13,2021-06-17,North,Office Supplies,Stationery,Markers,315.29,4,0.05,61.16,Customer 174,Consumer
+OD-2019298,2021-10-13,2021-10-19,Central,Technology,Gadgets,Laptop Pro 15,71.69,1,0.05,15.79,Customer 137,Consumer
+OD-2019299,2023-01-29,2023-02-02,Central,Furniture,Chairs & Tables,Filing Cabinet,155.15,2,0.0,35.33,Customer 93,Home Office
+OD-2019300,2020-08-24,2020-08-27,South,Furniture,Chairs & Tables,Office Chair,268.65,5,0.1,65.27,Customer 152,Corporate
+OD-2019301,2021-07-02,2021-07-07,West,Office Supplies,Stationery,Markers,2623.6,3,0.2,218.08,Customer 228,Corporate
+OD-2019302,2021-07-04,2021-07-05,Central,Office Supplies,Stationery,Stapler,118.34,4,0.2,18.72,Customer 223,Corporate
+OD-2019303,2022-08-02,2022-08-09,North,Furniture,Chairs & Tables,Office Chair,1279.06,4,0.1,90.46,Customer 187,Home Office
+OD-2019304,2023-06-29,2023-07-05,East,Office Supplies,Stationery,Pen Set,1214.92,1,0.05,354.79,Customer 74,Home Office
+OD-2019305,2022-10-20,2022-10-27,West,Technology,Gadgets,iPhone 13,110.47,5,0.0,37.66,Customer 35,Consumer
+OD-2019306,2023-05-14,2023-05-20,North,Technology,Gadgets,Laptop Pro 15,2315.28,3,0.0,476.79,Customer 291,Consumer
+OD-2019307,2022-05-24,2022-05-26,South,Office Supplies,Stationery,Markers,1036.18,2,0.0,243.65,Customer 191,Corporate
+OD-2019308,2023-04-12,2023-04-13,Central,Office Supplies,Stationery,Pen Set,491.7,1,0.0,29.99,Customer 188,Corporate
+OD-2019309,2020-10-05,2020-10-11,East,Technology,Gadgets,Samsung Galaxy S21,528.35,5,0.15,117.49,Customer 14,Home Office
+OD-2019310,2020-01-17,2020-01-21,Central,Office Supplies,Stationery,Markers,594.7,4,0.0,77.86,Customer 61,Corporate
+OD-2019311,2023-05-07,2023-05-10,West,Office Supplies,Stationery,Markers,1056.23,2,0.25,48.96,Customer 147,Home Office
+OD-2019312,2021-10-02,2021-10-04,East,Furniture,Chairs & Tables,Wooden Desk,443.7,3,0.0,35.94,Customer 232,Consumer
+OD-2019313,2022-12-31,2023-01-04,South,Furniture,Chairs & Tables,Bookcase,2470.74,3,0.05,600.39,Customer 34,Home Office
+OD-2019314,2022-01-15,2022-01-18,West,Technology,Gadgets,Samsung Galaxy S21,1077.82,2,0.2,160.74,Customer 186,Home Office
+OD-2019315,2020-04-04,2020-04-05,West,Furniture,Chairs & Tables,Wooden Desk,91.67,3,0.05,7.64,Customer 253,Consumer
+OD-2019316,2021-01-09,2021-01-14,North,Office Supplies,Stationery,Stapler,409.1,5,0.0,103.11,Customer 283,Consumer
+OD-2019317,2022-06-07,2022-06-08,North,Furniture,Chairs & Tables,Bookcase,193.76,2,0.1,31.93,Customer 246,Home Office
+OD-2019318,2021-04-21,2021-04-28,East,Technology,Gadgets,Bluetooth Headset,750.8,5,0.1,232.17,Customer 65,Corporate
+OD-2019319,2022-08-08,2022-08-09,Central,Technology,Gadgets,Wireless Mouse,2288.41,3,0.0,684.84,Customer 177,Consumer
+OD-2019320,2023-12-04,2023-12-11,West,Office Supplies,Stationery,Paper Reams,1363.43,1,0.1,310.4,Customer 67,Corporate
+OD-2019321,2021-10-26,2021-11-02,Central,Furniture,Chairs & Tables,Office Chair,325.02,3,0.1,45.22,Customer 79,Corporate
+OD-2019322,2019-12-04,2019-12-06,South,Technology,Gadgets,Samsung Galaxy S21,64.26,2,0.0,19.92,Customer 266,Corporate
+OD-2019323,2023-09-29,2023-09-30,Central,Technology,Gadgets,Samsung Galaxy S21,484.05,1,0.0,40.05,Customer 141,Consumer
+OD-2019324,2022-07-04,2022-07-07,East,Office Supplies,Stationery,Paper Reams,304.62,2,0.1,80.15,Customer 258,Home Office
+OD-2019325,2019-12-12,2019-12-17,West,Office Supplies,Stationery,Pen Set,1013.44,2,0.2,131.91,Customer 173,Home Office
+OD-2019326,2019-03-26,2019-04-02,East,Furniture,Chairs & Tables,Office Chair,101.49,1,0.05,16.28,Customer 296,Corporate
+OD-2019327,2022-08-26,2022-08-28,Central,Office Supplies,Stationery,Markers,256.93,5,0.05,29.6,Customer 16,Corporate
+OD-2019328,2023-12-26,2024-01-01,South,Office Supplies,Stationery,Stapler,49.77,1,0.0,11.5,Customer 248,Consumer
+OD-2019329,2023-07-07,2023-07-14,South,Office Supplies,Stationery,Markers,62.56,2,0.05,18.36,Customer 233,Consumer
+OD-2019330,2022-11-11,2022-11-12,North,Furniture,Chairs & Tables,Filing Cabinet,339.85,2,0.15,23.88,Customer 248,Corporate
+OD-2019331,2020-02-22,2020-02-25,South,Office Supplies,Stationery,Pen Set,158.3,5,0.0,30.55,Customer 164,Home Office
+OD-2019332,2023-10-29,2023-11-01,South,Technology,Gadgets,Samsung Galaxy S21,667.56,3,0.1,202.26,Customer 264,Home Office
+OD-2019333,2019-08-06,2019-08-09,East,Furniture,Chairs & Tables,Filing Cabinet,494.58,5,0.0,120.8,Customer 137,Corporate
+OD-2019334,2020-05-22,2020-05-24,South,Furniture,Chairs & Tables,Office Chair,2161.88,4,0.05,224.16,Customer 197,Home Office
+OD-2019335,2021-05-06,2021-05-08,Central,Furniture,Chairs & Tables,Bookcase,741.68,5,0.0,174.45,Customer 161,Consumer
+OD-2019336,2023-04-12,2023-04-14,North,Technology,Gadgets,Bluetooth Headset,406.51,5,0.2,68.19,Customer 256,Corporate
+OD-2019337,2021-10-15,2021-10-16,Central,Furniture,Chairs & Tables,Filing Cabinet,164.03,2,0.05,53.45,Customer 235,Consumer
+OD-2019338,2020-03-16,2020-03-21,East,Technology,Gadgets,iPhone 13,1054.5,2,0.0,324.6,Customer 145,Corporate
+OD-2019339,2022-05-08,2022-05-15,South,Office Supplies,Stationery,Markers,1009.06,5,0.15,90.55,Customer 275,Consumer
+OD-2019340,2023-10-02,2023-10-03,South,Technology,Gadgets,Samsung Galaxy S21,314.01,4,0.15,57.4,Customer 188,Corporate
+OD-2019341,2021-01-19,2021-01-20,Central,Technology,Gadgets,iPhone 13,3889.84,5,0.0,938.99,Customer 288,Consumer
+OD-2019342,2021-01-12,2021-01-17,North,Technology,Gadgets,iPhone 13,801.53,5,0.15,166.22,Customer 259,Corporate
+OD-2019343,2023-04-15,2023-04-20,Central,Technology,Gadgets,Bluetooth Headset,1117.97,2,0.2,139.55,Customer 61,Consumer
+OD-2019344,2019-07-18,2019-07-22,Central,Technology,Gadgets,Laptop Pro 15,2654.65,2,0.0,787.86,Customer 188,Consumer
+OD-2019345,2020-02-12,2020-02-17,Central,Office Supplies,Stationery,Markers,866.81,4,0.0,205.57,Customer 21,Consumer
+OD-2019346,2019-03-21,2019-03-23,North,Office Supplies,Stationery,Stapler,213.46,1,0.0,57.86,Customer 266,Corporate
+OD-2019347,2019-11-02,2019-11-07,South,Office Supplies,Stationery,Pen Set,39.73,2,0.0,2.27,Customer 164,Consumer
+OD-2019348,2021-03-15,2021-03-20,Central,Office Supplies,Stationery,Stapler,635.6,3,0.0,106.32,Customer 173,Home Office
+OD-2019349,2023-08-24,2023-08-29,Central,Office Supplies,Stationery,Markers,2623.38,5,0.3,166.98,Customer 154,Corporate
+OD-2019350,2023-07-29,2023-07-30,East,Technology,Gadgets,Laptop Pro 15,154.63,5,0.05,38.97,Customer 214,Home Office
+OD-2019351,2020-09-22,2020-09-29,Central,Office Supplies,Stationery,Notebook Pack,1377.9,1,0.0,111.93,Customer 243,Corporate
+OD-2019352,2022-09-04,2022-09-11,West,Office Supplies,Stationery,Paper Reams,319.7,2,0.0,23.6,Customer 27,Home Office
+OD-2019353,2021-09-10,2021-09-12,North,Office Supplies,Stationery,Paper Reams,106.92,5,0.05,16.26,Customer 76,Home Office
+OD-2019354,2020-05-11,2020-05-12,West,Office Supplies,Stationery,Notebook Pack,192.78,1,0.05,12.87,Customer 10,Corporate
+OD-2019355,2020-10-04,2020-10-08,West,Furniture,Chairs & Tables,Filing Cabinet,6468.2,5,0.0,1473.74,Customer 211,Home Office
+OD-2019356,2023-05-07,2023-05-12,West,Technology,Gadgets,iPhone 13,448.27,3,0.05,45.61,Customer 266,Consumer
+OD-2019357,2022-02-22,2022-02-25,Central,Office Supplies,Stationery,Markers,410.28,2,0.05,135.89,Customer 193,Corporate
+OD-2019358,2019-12-21,2019-12-25,Central,Office Supplies,Stationery,Stapler,1279.31,4,0.0,433.05,Customer 182,Home Office
+OD-2019359,2023-05-01,2023-05-08,Central,Office Supplies,Stationery,Stapler,2460.24,5,0.05,413.24,Customer 248,Consumer
+OD-2019360,2020-05-19,2020-05-22,West,Office Supplies,Stationery,Stapler,80.81,4,0.3,10.89,Customer 153,Corporate
+OD-2019361,2022-12-14,2022-12-16,South,Office Supplies,Stationery,Markers,1029.86,5,0.0,358.13,Customer 246,Corporate
+OD-2019362,2022-02-21,2022-02-28,South,Office Supplies,Stationery,Stapler,89.47,4,0.05,20.15,Customer 63,Home Office
+OD-2019363,2022-10-17,2022-10-22,South,Technology,Gadgets,Wireless Mouse,660.63,2,0.0,196.75,Customer 75,Corporate
+OD-2019364,2019-03-28,2019-03-31,South,Office Supplies,Stationery,Notebook Pack,115.51,4,0.0,13.65,Customer 227,Home Office
+OD-2019365,2020-06-09,2020-06-15,West,Technology,Gadgets,Samsung Galaxy S21,153.93,5,0.0,18.74,Customer 276,Corporate
+OD-2019366,2022-02-25,2022-03-03,East,Technology,Gadgets,Samsung Galaxy S21,1338.07,1,0.0,445.2,Customer 123,Consumer
+OD-2019367,2019-04-14,2019-04-20,West,Office Supplies,Stationery,Pen Set,392.94,2,0.15,74.27,Customer 27,Consumer
+OD-2019368,2021-04-26,2021-04-29,East,Office Supplies,Stationery,Markers,411.28,4,0.05,66.09,Customer 71,Consumer
+OD-2019369,2022-02-01,2022-02-03,North,Technology,Gadgets,Wireless Mouse,108.49,2,0.05,27.46,Customer 103,Corporate
+OD-2019370,2020-10-19,2020-10-22,East,Office Supplies,Stationery,Notebook Pack,606.56,3,0.0,103.66,Customer 294,Consumer
+OD-2019371,2021-12-31,2022-01-06,West,Office Supplies,Stationery,Notebook Pack,2613.58,2,0.0,895.63,Customer 214,Consumer
+OD-2019372,2019-03-16,2019-03-23,West,Technology,Gadgets,Wireless Mouse,1065.03,2,0.05,145.82,Customer 149,Consumer
+OD-2019373,2019-01-19,2019-01-22,East,Office Supplies,Stationery,Paper Reams,167.38,1,0.0,56.21,Customer 172,Corporate
+OD-2019374,2021-07-19,2021-07-25,North,Office Supplies,Stationery,Paper Reams,97.44,1,0.05,18.68,Customer 69,Home Office
+OD-2019375,2021-08-16,2021-08-19,South,Furniture,Chairs & Tables,Office Chair,311.37,4,0.0,75.43,Customer 84,Home Office
+OD-2019376,2021-07-28,2021-08-03,East,Technology,Gadgets,Samsung Galaxy S21,6443.51,5,0.1,554.44,Customer 173,Corporate
+OD-2019377,2022-03-08,2022-03-14,Central,Furniture,Chairs & Tables,Wooden Desk,331.85,3,0.05,21.26,Customer 208,Corporate
+OD-2019378,2021-11-21,2021-11-24,East,Furniture,Chairs & Tables,Filing Cabinet,86.54,3,0.1,26.88,Customer 95,Consumer
+OD-2019379,2021-09-04,2021-09-07,South,Furniture,Chairs & Tables,Office Chair,1467.67,3,0.0,206.92,Customer 197,Consumer
+OD-2019380,2021-07-03,2021-07-10,South,Technology,Gadgets,Laptop Pro 15,653.06,3,0.0,132.46,Customer 299,Home Office
+OD-2019381,2022-03-19,2022-03-20,West,Technology,Gadgets,Laptop Pro 15,107.3,1,0.0,25.45,Customer 32,Home Office
+OD-2019382,2019-08-31,2019-09-04,North,Technology,Gadgets,Samsung Galaxy S21,621.13,4,0.0,196.27,Customer 258,Home Office
+OD-2019383,2023-04-26,2023-04-29,South,Office Supplies,Stationery,Notebook Pack,255.89,5,0.05,72.51,Customer 189,Home Office
+OD-2019384,2020-03-28,2020-03-30,West,Furniture,Chairs & Tables,Filing Cabinet,857.07,5,0.0,77.26,Customer 233,Home Office
+OD-2019385,2022-05-25,2022-05-28,North,Technology,Gadgets,Bluetooth Headset,831.05,5,0.1,190.2,Customer 276,Home Office
+OD-2019386,2023-08-18,2023-08-20,East,Furniture,Chairs & Tables,Office Table,101.47,5,0.15,20.6,Customer 270,Corporate
+OD-2019387,2021-12-17,2021-12-23,Central,Technology,Gadgets,iPhone 13,144.44,5,0.0,23.32,Customer 58,Consumer
+OD-2019388,2023-08-25,2023-08-30,Central,Office Supplies,Stationery,Pen Set,1249.05,1,0.15,84.32,Customer 275,Consumer
+OD-2019389,2019-12-03,2019-12-06,East,Office Supplies,Stationery,Markers,168.44,2,0.0,41.35,Customer 106,Home Office
+OD-2019390,2022-04-09,2022-04-13,North,Furniture,Chairs & Tables,Office Table,1609.22,3,0.2,215.92,Customer 29,Corporate
+OD-2019391,2019-09-28,2019-10-03,Central,Technology,Gadgets,Wireless Mouse,45.64,2,0.15,5.61,Customer 30,Home Office
+OD-2019392,2021-08-04,2021-08-10,North,Technology,Gadgets,iPhone 13,31.13,1,0.0,9.41,Customer 131,Consumer
+OD-2019393,2023-03-08,2023-03-10,East,Office Supplies,Stationery,Notebook Pack,625.38,2,0.1,139.48,Customer 217,Corporate
+OD-2019394,2022-12-05,2022-12-06,East,Office Supplies,Stationery,Notebook Pack,484.8,3,0.1,30.54,Customer 242,Consumer
+OD-2019395,2020-08-10,2020-08-14,North,Furniture,Chairs & Tables,Wooden Desk,242.78,5,0.3,31.1,Customer 192,Corporate
+OD-2019396,2021-07-07,2021-07-14,East,Technology,Gadgets,Wireless Mouse,1450.44,5,0.1,93.5,Customer 277,Consumer
+OD-2019397,2022-08-31,2022-09-07,West,Technology,Gadgets,iPhone 13,861.4,3,0.05,136.07,Customer 276,Corporate
+OD-2019398,2021-12-19,2021-12-21,East,Office Supplies,Stationery,Pen Set,5491.92,4,0.25,1174.53,Customer 12,Corporate
+OD-2019399,2021-08-06,2021-08-12,North,Office Supplies,Stationery,Paper Reams,3716.73,3,0.05,1056.3,Customer 273,Corporate
+OD-2019400,2023-08-14,2023-08-16,South,Furniture,Chairs & Tables,Filing Cabinet,289.96,2,0.05,88.06,Customer 80,Corporate
+OD-2019401,2020-01-22,2020-01-28,North,Furniture,Chairs & Tables,Office Chair,513.19,1,0.0,44.35,Customer 9,Consumer
+OD-2019402,2020-02-27,2020-02-28,East,Furniture,Chairs & Tables,Office Table,2157.56,4,0.05,128.28,Customer 229,Home Office
+OD-2019403,2022-10-08,2022-10-14,East,Furniture,Chairs & Tables,Wooden Desk,1775.59,2,0.0,610.79,Customer 206,Corporate
+OD-2019404,2020-04-24,2020-04-29,West,Furniture,Chairs & Tables,Office Chair,567.03,5,0.05,126.56,Customer 258,Corporate
+OD-2019405,2020-04-24,2020-05-01,South,Office Supplies,Stationery,Paper Reams,2300.99,2,0.0,528.21,Customer 296,Home Office
+OD-2019406,2023-05-02,2023-05-08,South,Technology,Gadgets,Samsung Galaxy S21,512.6,1,0.1,76.86,Customer 74,Home Office
+OD-2019407,2021-12-03,2021-12-05,South,Technology,Gadgets,Laptop Pro 15,301.43,2,0.2,60.96,Customer 32,Home Office
+OD-2019408,2022-04-26,2022-05-02,Central,Furniture,Chairs & Tables,Filing Cabinet,64.75,3,0.0,19.09,Customer 254,Consumer
+OD-2019409,2020-12-06,2020-12-12,Central,Office Supplies,Stationery,Markers,529.4,1,0.1,55.42,Customer 164,Home Office
+OD-2019410,2021-05-02,2021-05-06,North,Furniture,Chairs & Tables,Bookcase,4867.26,4,0.15,541.14,Customer 95,Home Office
+OD-2019411,2021-08-27,2021-08-29,West,Furniture,Chairs & Tables,Bookcase,116.59,4,0.1,8.14,Customer 238,Consumer
+OD-2019412,2022-02-25,2022-03-01,Central,Technology,Gadgets,Bluetooth Headset,98.01,2,0.0,17.06,Customer 69,Corporate
+OD-2019413,2020-05-12,2020-05-15,East,Furniture,Chairs & Tables,Bookcase,105.17,5,0.0,23.09,Customer 231,Corporate
+OD-2019414,2019-07-09,2019-07-14,East,Office Supplies,Stationery,Pen Set,1065.43,5,0.2,153.54,Customer 138,Corporate
+OD-2019415,2022-10-11,2022-10-16,East,Office Supplies,Stationery,Notebook Pack,1522.99,2,0.0,408.07,Customer 97,Home Office
+OD-2019416,2023-01-23,2023-01-29,North,Office Supplies,Stationery,Pen Set,72.74,1,0.05,20.04,Customer 107,Corporate
+OD-2019417,2020-09-12,2020-09-13,East,Furniture,Chairs & Tables,Wooden Desk,1591.53,3,0.15,317.63,Customer 246,Consumer
+OD-2019418,2022-11-25,2022-11-30,North,Office Supplies,Stationery,Pen Set,91.9,3,0.15,16.89,Customer 123,Home Office
+OD-2019419,2020-10-20,2020-10-27,North,Technology,Gadgets,Wireless Mouse,1788.79,2,0.15,81.06,Customer 274,Home Office
+OD-2019420,2021-01-05,2021-01-08,Central,Technology,Gadgets,Laptop Pro 15,33.05,1,0.1,8.24,Customer 255,Corporate
+OD-2019421,2019-07-21,2019-07-28,South,Office Supplies,Stationery,Markers,292.48,3,0.05,67.52,Customer 105,Corporate
+OD-2019422,2020-10-02,2020-10-06,West,Furniture,Chairs & Tables,Office Table,596.07,2,0.0,148.37,Customer 75,Consumer
+OD-2019423,2020-06-18,2020-06-23,North,Office Supplies,Stationery,Paper Reams,4295.67,5,0.05,1176.35,Customer 152,Consumer
+OD-2019424,2020-02-06,2020-02-09,Central,Furniture,Chairs & Tables,Filing Cabinet,85.41,4,0.05,19.69,Customer 126,Corporate
+OD-2019425,2022-02-01,2022-02-07,South,Office Supplies,Stationery,Stapler,4249.19,5,0.1,883.58,Customer 251,Home Office
+OD-2019426,2022-08-07,2022-08-13,West,Technology,Gadgets,Wireless Mouse,64.23,2,0.0,9.42,Customer 181,Consumer
+OD-2019427,2019-10-14,2019-10-20,West,Office Supplies,Stationery,Markers,490.09,3,0.15,143.55,Customer 278,Home Office
+OD-2019428,2019-05-01,2019-05-06,East,Furniture,Chairs & Tables,Office Chair,395.05,5,0.05,35.37,Customer 4,Corporate
+OD-2019429,2019-10-09,2019-10-16,East,Office Supplies,Stationery,Pen Set,199.43,1,0.05,13.03,Customer 78,Consumer
+OD-2019430,2020-03-23,2020-03-28,East,Technology,Gadgets,Laptop Pro 15,5295.92,4,0.15,629.46,Customer 248,Home Office
+OD-2019431,2021-09-26,2021-09-27,Central,Furniture,Chairs & Tables,Office Table,21.55,1,0.05,2.12,Customer 211,Consumer
+OD-2019432,2019-02-04,2019-02-09,Central,Office Supplies,Stationery,Stapler,5270.39,4,0.25,438.29,Customer 147,Consumer
+OD-2019433,2021-10-25,2021-11-01,West,Office Supplies,Stationery,Markers,3254.09,4,0.0,186.32,Customer 55,Consumer
+OD-2019434,2021-12-09,2021-12-11,Central,Furniture,Chairs & Tables,Wooden Desk,790.21,5,0.0,262.51,Customer 270,Corporate
+OD-2019435,2023-07-28,2023-07-31,East,Technology,Gadgets,Wireless Mouse,103.59,2,0.2,25.08,Customer 192,Corporate
+OD-2019436,2021-07-29,2021-08-03,South,Furniture,Chairs & Tables,Wooden Desk,416.45,5,0.05,77.1,Customer 42,Home Office
+OD-2019437,2023-10-24,2023-10-30,North,Furniture,Chairs & Tables,Office Chair,144.0,2,0.2,37.19,Customer 195,Corporate
+OD-2019438,2022-02-05,2022-02-09,West,Furniture,Chairs & Tables,Office Chair,82.73,1,0.0,19.28,Customer 43,Corporate
+OD-2019439,2023-09-28,2023-10-02,Central,Office Supplies,Stationery,Stapler,2200.55,4,0.1,667.4,Customer 49,Home Office
+OD-2019440,2019-03-29,2019-03-31,North,Furniture,Chairs & Tables,Office Table,3220.6,4,0.0,399.66,Customer 139,Consumer
+OD-2019441,2019-06-02,2019-06-08,Central,Technology,Gadgets,Bluetooth Headset,1373.96,4,0.05,233.21,Customer 17,Consumer
+OD-2019442,2023-10-08,2023-10-11,Central,Furniture,Chairs & Tables,Wooden Desk,144.46,1,0.05,8.25,Customer 74,Home Office
+OD-2019443,2023-08-09,2023-08-13,West,Furniture,Chairs & Tables,Bookcase,135.75,4,0.0,28.47,Customer 289,Consumer
+OD-2019444,2022-03-06,2022-03-13,South,Technology,Gadgets,Bluetooth Headset,1223.36,1,0.2,55.34,Customer 197,Home Office
+OD-2019445,2019-10-14,2019-10-21,Central,Office Supplies,Stationery,Notebook Pack,219.51,3,0.2,29.51,Customer 178,Consumer
+OD-2019446,2019-07-20,2019-07-24,South,Furniture,Chairs & Tables,Office Chair,601.22,2,0.15,176.0,Customer 204,Corporate
+OD-2019447,2019-03-02,2019-03-08,North,Technology,Gadgets,Wireless Mouse,216.17,2,0.0,47.47,Customer 117,Corporate
+OD-2019448,2022-02-06,2022-02-10,Central,Technology,Gadgets,Samsung Galaxy S21,171.66,3,0.1,23.92,Customer 195,Consumer
+OD-2019449,2023-05-01,2023-05-06,East,Technology,Gadgets,Samsung Galaxy S21,19.6,1,0.0,2.46,Customer 43,Corporate
+OD-2019450,2019-11-12,2019-11-16,North,Office Supplies,Stationery,Pen Set,22.92,1,0.0,3.92,Customer 163,Corporate
+OD-2019451,2019-08-07,2019-08-08,North,Furniture,Chairs & Tables,Bookcase,1662.51,3,0.05,369.37,Customer 185,Corporate
+OD-2019452,2019-07-29,2019-07-31,North,Furniture,Chairs & Tables,Wooden Desk,41.43,2,0.0,10.33,Customer 230,Home Office
+OD-2019453,2022-02-10,2022-02-15,East,Technology,Gadgets,iPhone 13,29.09,1,0.2,4.38,Customer 46,Corporate
+OD-2019454,2022-02-09,2022-02-10,South,Office Supplies,Stationery,Paper Reams,1328.87,4,0.0,208.36,Customer 198,Consumer
+OD-2019455,2020-08-20,2020-08-24,Central,Technology,Gadgets,iPhone 13,166.09,3,0.0,21.19,Customer 125,Home Office
+OD-2019456,2021-12-03,2021-12-05,West,Office Supplies,Stationery,Markers,3251.34,4,0.15,568.8,Customer 72,Corporate
+OD-2019457,2020-09-08,2020-09-11,East,Technology,Gadgets,Samsung Galaxy S21,736.74,5,0.0,246.06,Customer 86,Corporate
+OD-2019458,2020-07-19,2020-07-23,East,Technology,Gadgets,Wireless Mouse,1698.55,2,0.1,119.61,Customer 185,Corporate
+OD-2019459,2020-05-20,2020-05-26,Central,Office Supplies,Stationery,Markers,905.84,3,0.05,249.13,Customer 101,Corporate
+OD-2019460,2019-08-08,2019-08-10,North,Technology,Gadgets,iPhone 13,891.54,4,0.05,239.42,Customer 171,Home Office
+OD-2019461,2021-02-17,2021-02-24,South,Technology,Gadgets,Wireless Mouse,3566.71,3,0.05,461.3,Customer 221,Home Office
+OD-2019462,2022-05-02,2022-05-04,Central,Technology,Gadgets,Laptop Pro 15,2131.04,4,0.1,555.0,Customer 103,Corporate
+OD-2019463,2020-10-05,2020-10-07,South,Technology,Gadgets,Laptop Pro 15,1663.23,2,0.1,149.41,Customer 252,Home Office
+OD-2019464,2023-05-21,2023-05-23,South,Technology,Gadgets,Wireless Mouse,169.42,3,0.0,34.24,Customer 202,Corporate
+OD-2019465,2019-08-22,2019-08-27,Central,Furniture,Chairs & Tables,Office Table,76.53,4,0.05,19.61,Customer 93,Home Office
+OD-2019466,2023-04-22,2023-04-27,West,Furniture,Chairs & Tables,Filing Cabinet,311.42,3,0.1,21.03,Customer 225,Corporate
+OD-2019467,2023-08-30,2023-09-05,North,Furniture,Chairs & Tables,Filing Cabinet,1261.25,1,0.25,165.85,Customer 72,Home Office
+OD-2019468,2020-09-12,2020-09-14,North,Technology,Gadgets,Samsung Galaxy S21,547.52,5,0.0,191.15,Customer 194,Consumer
+OD-2019469,2021-07-08,2021-07-13,North,Technology,Gadgets,Bluetooth Headset,2357.87,2,0.0,513.84,Customer 274,Home Office
+OD-2019470,2023-11-17,2023-11-23,East,Technology,Gadgets,Bluetooth Headset,82.04,1,0.2,4.85,Customer 185,Home Office
+OD-2019471,2023-07-22,2023-07-27,East,Office Supplies,Stationery,Notebook Pack,246.87,5,0.2,58.4,Customer 128,Home Office
+OD-2019472,2022-09-23,2022-09-26,East,Furniture,Chairs & Tables,Office Table,327.61,2,0.0,62.69,Customer 289,Home Office
+OD-2019473,2022-10-19,2022-10-25,North,Technology,Gadgets,Laptop Pro 15,2043.12,4,0.05,579.33,Customer 55,Consumer
+OD-2019474,2019-07-21,2019-07-24,Central,Furniture,Chairs & Tables,Office Table,3196.38,4,0.0,243.42,Customer 286,Home Office
+OD-2019475,2022-11-09,2022-11-14,South,Furniture,Chairs & Tables,Filing Cabinet,103.4,1,0.2,22.49,Customer 201,Corporate
+OD-2019476,2023-05-01,2023-05-07,West,Office Supplies,Stationery,Paper Reams,1716.41,2,0.05,363.91,Customer 177,Consumer
+OD-2019477,2021-09-15,2021-09-16,East,Technology,Gadgets,Wireless Mouse,111.12,1,0.15,11.92,Customer 60,Home Office
+OD-2019478,2019-10-18,2019-10-21,North,Technology,Gadgets,Laptop Pro 15,82.34,1,0.0,11.9,Customer 106,Home Office
+OD-2019479,2021-09-16,2021-09-19,North,Technology,Gadgets,iPhone 13,786.74,4,0.1,246.07,Customer 232,Corporate
+OD-2019480,2019-05-18,2019-05-21,East,Furniture,Chairs & Tables,Office Chair,252.74,3,0.0,39.96,Customer 176,Home Office
+OD-2019481,2019-08-12,2019-08-18,Central,Furniture,Chairs & Tables,Wooden Desk,275.66,5,0.05,72.74,Customer 90,Home Office
+OD-2019482,2019-11-24,2019-11-27,North,Office Supplies,Stationery,Markers,88.26,4,0.15,18.72,Customer 119,Corporate
+OD-2019483,2022-07-13,2022-07-15,North,Furniture,Chairs & Tables,Filing Cabinet,113.14,2,0.1,22.21,Customer 15,Home Office
+OD-2019484,2022-06-11,2022-06-13,North,Technology,Gadgets,Bluetooth Headset,93.55,3,0.05,27.49,Customer 200,Consumer
+OD-2019485,2022-12-14,2022-12-16,East,Furniture,Chairs & Tables,Bookcase,171.8,3,0.0,30.37,Customer 296,Consumer
+OD-2019486,2023-06-26,2023-07-03,South,Office Supplies,Stationery,Pen Set,329.39,1,0.2,35.31,Customer 167,Consumer
+OD-2019487,2021-07-26,2021-07-27,Central,Technology,Gadgets,Wireless Mouse,57.23,1,0.15,12.64,Customer 161,Home Office
+OD-2019488,2021-03-06,2021-03-11,East,Technology,Gadgets,Bluetooth Headset,343.91,4,0.1,67.4,Customer 179,Corporate
+OD-2019489,2023-09-28,2023-10-02,South,Office Supplies,Stationery,Pen Set,845.23,4,0.1,140.69,Customer 44,Home Office
+OD-2019490,2019-10-02,2019-10-05,South,Furniture,Chairs & Tables,Wooden Desk,363.49,5,0.0,19.53,Customer 60,Consumer
+OD-2019491,2021-02-03,2021-02-09,North,Furniture,Chairs & Tables,Office Table,2229.81,4,0.0,262.91,Customer 215,Home Office
+OD-2019492,2019-10-10,2019-10-15,West,Technology,Gadgets,Wireless Mouse,72.22,1,0.2,18.09,Customer 250,Home Office
+OD-2019493,2022-01-05,2022-01-11,Central,Office Supplies,Stationery,Pen Set,846.35,5,0.0,62.37,Customer 86,Corporate
+OD-2019494,2020-08-14,2020-08-16,North,Furniture,Chairs & Tables,Bookcase,100.71,5,0.05,12.47,Customer 28,Corporate
+OD-2019495,2019-01-20,2019-01-24,North,Furniture,Chairs & Tables,Wooden Desk,210.86,2,0.0,63.13,Customer 288,Home Office
+OD-2019496,2022-08-30,2022-09-03,North,Technology,Gadgets,Wireless Mouse,65.85,3,0.05,3.74,Customer 228,Corporate
+OD-2019497,2019-12-09,2019-12-10,West,Office Supplies,Stationery,Notebook Pack,57.78,3,0.25,2.49,Customer 150,Consumer
+OD-2019498,2020-07-16,2020-07-18,West,Office Supplies,Stationery,Stapler,622.15,4,0.15,121.94,Customer 235,Home Office
+OD-2019499,2023-03-01,2023-03-08,Central,Technology,Gadgets,Bluetooth Headset,155.8,2,0.1,33.57,Customer 58,Home Office
+OD-2019500,2019-08-22,2019-08-25,Central,Office Supplies,Stationery,Stapler,2181.05,4,0.0,444.3,Customer 22,Home Office
+OD-2019501,2021-06-22,2021-06-27,East,Furniture,Chairs & Tables,Filing Cabinet,308.07,4,0.05,71.9,Customer 127,Corporate
+OD-2019502,2023-11-27,2023-11-28,South,Technology,Gadgets,Laptop Pro 15,642.08,2,0.15,110.18,Customer 45,Corporate
+OD-2019503,2023-11-08,2023-11-09,Central,Furniture,Chairs & Tables,Wooden Desk,30.67,1,0.05,1.86,Customer 180,Home Office
+OD-2019504,2022-06-03,2022-06-09,Central,Technology,Gadgets,Samsung Galaxy S21,2746.34,3,0.0,534.47,Customer 72,Consumer
+OD-2019505,2023-07-25,2023-07-27,South,Furniture,Chairs & Tables,Office Table,223.06,3,0.05,10.95,Customer 273,Corporate
+OD-2019506,2022-05-07,2022-05-12,South,Furniture,Chairs & Tables,Bookcase,287.2,1,0.0,43.56,Customer 149,Home Office
+OD-2019507,2020-07-01,2020-07-08,West,Office Supplies,Stationery,Notebook Pack,532.2,5,0.05,69.8,Customer 211,Consumer
+OD-2019508,2020-07-21,2020-07-28,West,Office Supplies,Stationery,Pen Set,556.67,1,0.0,164.47,Customer 128,Consumer
+OD-2019509,2022-12-27,2022-12-30,North,Furniture,Chairs & Tables,Filing Cabinet,281.49,5,0.1,14.92,Customer 73,Home Office
+OD-2019510,2022-07-19,2022-07-22,North,Office Supplies,Stationery,Markers,156.02,3,0.2,12.43,Customer 232,Consumer
+OD-2019511,2022-07-21,2022-07-28,Central,Furniture,Chairs & Tables,Filing Cabinet,206.44,4,0.2,43.63,Customer 143,Home Office
+OD-2019512,2023-12-02,2023-12-05,South,Technology,Gadgets,Wireless Mouse,89.18,4,0.25,19.82,Customer 298,Consumer
+OD-2019513,2023-11-15,2023-11-22,North,Office Supplies,Stationery,Notebook Pack,1140.5,1,0.1,306.78,Customer 184,Consumer
+OD-2019514,2023-06-18,2023-06-23,North,Technology,Gadgets,Samsung Galaxy S21,81.55,1,0.0,13.47,Customer 109,Corporate
+OD-2019515,2020-07-03,2020-07-06,Central,Technology,Gadgets,Laptop Pro 15,116.21,4,0.1,22.47,Customer 296,Consumer
+OD-2019516,2022-03-05,2022-03-12,East,Technology,Gadgets,Laptop Pro 15,20.62,1,0.0,5.67,Customer 24,Consumer
+OD-2019517,2022-07-06,2022-07-13,East,Technology,Gadgets,iPhone 13,1079.29,2,0.2,198.25,Customer 81,Corporate
+OD-2019518,2021-07-23,2021-07-24,West,Technology,Gadgets,Samsung Galaxy S21,113.27,2,0.1,31.82,Customer 155,Consumer
+OD-2019519,2023-11-26,2023-11-29,South,Furniture,Chairs & Tables,Bookcase,584.47,4,0.2,32.7,Customer 43,Corporate
+OD-2019520,2022-09-22,2022-09-28,North,Furniture,Chairs & Tables,Office Chair,43.56,2,0.05,7.64,Customer 157,Home Office
+OD-2019521,2022-12-03,2022-12-10,East,Furniture,Chairs & Tables,Filing Cabinet,4528.11,5,0.15,441.91,Customer 49,Consumer
+OD-2019522,2020-03-13,2020-03-17,Central,Furniture,Chairs & Tables,Wooden Desk,222.67,1,0.0,37.01,Customer 116,Home Office
+OD-2019523,2022-10-24,2022-10-28,South,Furniture,Chairs & Tables,Office Chair,92.77,3,0.0,19.74,Customer 62,Corporate
+OD-2019524,2022-11-22,2022-11-24,West,Technology,Gadgets,iPhone 13,61.61,2,0.05,13.1,Customer 197,Consumer
+OD-2019525,2023-02-05,2023-02-12,South,Furniture,Chairs & Tables,Office Chair,202.75,1,0.1,29.44,Customer 189,Corporate
+OD-2019526,2019-10-08,2019-10-12,East,Furniture,Chairs & Tables,Wooden Desk,163.67,1,0.1,23.92,Customer 272,Home Office
+OD-2019527,2019-01-18,2019-01-23,North,Office Supplies,Stationery,Pen Set,431.66,4,0.0,120.25,Customer 180,Home Office
+OD-2019528,2020-03-12,2020-03-18,North,Office Supplies,Stationery,Pen Set,191.02,4,0.1,41.44,Customer 227,Consumer
+OD-2019529,2019-06-27,2019-06-28,Central,Furniture,Chairs & Tables,Office Chair,3714.93,3,0.0,940.38,Customer 197,Corporate
+OD-2019530,2021-05-29,2021-06-01,South,Furniture,Chairs & Tables,Wooden Desk,1534.38,5,0.0,531.53,Customer 44,Consumer
+OD-2019531,2022-02-07,2022-02-12,South,Office Supplies,Stationery,Paper Reams,73.76,1,0.3,6.12,Customer 14,Home Office
+OD-2019532,2023-11-29,2023-12-02,Central,Furniture,Chairs & Tables,Office Table,171.42,3,0.05,10.05,Customer 261,Consumer
+OD-2019533,2023-03-12,2023-03-16,West,Technology,Gadgets,iPhone 13,3535.22,3,0.0,978.78,Customer 254,Corporate
+OD-2019534,2019-08-19,2019-08-21,East,Technology,Gadgets,Bluetooth Headset,4520.07,5,0.0,1522.25,Customer 271,Consumer
+OD-2019535,2021-01-09,2021-01-12,Central,Furniture,Chairs & Tables,Filing Cabinet,281.92,5,0.1,75.61,Customer 216,Corporate
+OD-2019536,2022-01-23,2022-01-29,East,Furniture,Chairs & Tables,Filing Cabinet,1370.67,1,0.05,215.7,Customer 9,Home Office
+OD-2019537,2019-05-19,2019-05-20,East,Technology,Gadgets,Samsung Galaxy S21,392.33,4,0.1,75.04,Customer 31,Corporate
+OD-2019538,2021-11-03,2021-11-06,North,Office Supplies,Stationery,Paper Reams,6706.26,5,0.05,1898.83,Customer 217,Home Office
+OD-2019539,2021-04-03,2021-04-04,Central,Office Supplies,Stationery,Paper Reams,246.36,5,0.05,59.26,Customer 79,Corporate
+OD-2019540,2019-06-21,2019-06-24,West,Furniture,Chairs & Tables,Office Table,6369.25,5,0.0,1427.61,Customer 80,Home Office
+OD-2019541,2020-10-31,2020-11-04,South,Office Supplies,Stationery,Notebook Pack,245.03,5,0.15,23.37,Customer 224,Home Office
+OD-2019542,2023-09-30,2023-10-02,East,Furniture,Chairs & Tables,Wooden Desk,109.69,5,0.0,16.21,Customer 223,Consumer
+OD-2019543,2021-07-17,2021-07-22,South,Office Supplies,Stationery,Notebook Pack,99.03,2,0.05,5.82,Customer 90,Consumer
+OD-2019544,2019-01-26,2019-02-01,West,Furniture,Chairs & Tables,Office Chair,105.86,1,0.0,35.91,Customer 255,Corporate
+OD-2019545,2021-12-07,2021-12-12,West,Office Supplies,Stationery,Stapler,164.16,5,0.05,48.5,Customer 191,Consumer
+OD-2019546,2023-03-16,2023-03-23,East,Technology,Gadgets,iPhone 13,831.08,5,0.0,239.57,Customer 172,Corporate
+OD-2019547,2020-07-11,2020-07-16,Central,Furniture,Chairs & Tables,Bookcase,2250.84,4,0.25,159.76,Customer 40,Corporate
+OD-2019548,2021-07-21,2021-07-26,North,Technology,Gadgets,iPhone 13,2750.87,3,0.05,807.69,Customer 291,Consumer
+OD-2019549,2021-01-23,2021-01-25,Central,Technology,Gadgets,iPhone 13,151.07,2,0.0,42.08,Customer 60,Consumer
+OD-2019550,2023-02-26,2023-03-03,East,Furniture,Chairs & Tables,Office Chair,4081.49,3,0.05,1038.04,Customer 126,Consumer
+OD-2019551,2021-08-24,2021-08-27,West,Technology,Gadgets,Samsung Galaxy S21,6189.1,5,0.15,1469.63,Customer 19,Home Office
+OD-2019552,2023-07-03,2023-07-09,West,Office Supplies,Stationery,Markers,912.97,4,0.0,75.57,Customer 165,Consumer
+OD-2019553,2021-05-02,2021-05-08,East,Technology,Gadgets,Laptop Pro 15,86.24,4,0.0,10.53,Customer 293,Corporate
+OD-2019554,2019-09-02,2019-09-07,West,Office Supplies,Stationery,Notebook Pack,3442.17,3,0.3,280.04,Customer 115,Home Office
+OD-2019555,2019-04-05,2019-04-09,South,Furniture,Chairs & Tables,Filing Cabinet,326.26,2,0.1,75.69,Customer 160,Corporate
+OD-2019556,2019-06-26,2019-07-01,South,Technology,Gadgets,iPhone 13,204.35,2,0.15,23.21,Customer 103,Corporate
+OD-2019557,2022-02-28,2022-03-07,West,Technology,Gadgets,Bluetooth Headset,57.48,1,0.1,15.44,Customer 238,Corporate
+OD-2019558,2022-04-26,2022-04-30,West,Furniture,Chairs & Tables,Office Table,61.1,3,0.1,3.89,Customer 78,Consumer
+OD-2019559,2021-04-19,2021-04-20,South,Furniture,Chairs & Tables,Office Table,1706.13,5,0.15,424.56,Customer 5,Corporate
+OD-2019560,2019-01-03,2019-01-10,South,Office Supplies,Stationery,Markers,81.75,1,0.0,13.88,Customer 54,Consumer
+OD-2019561,2021-12-21,2021-12-23,East,Technology,Gadgets,Wireless Mouse,154.71,2,0.0,23.93,Customer 73,Home Office
+OD-2019562,2020-07-27,2020-07-28,Central,Furniture,Chairs & Tables,Wooden Desk,85.61,3,0.0,26.6,Customer 212,Home Office
+OD-2019563,2021-02-01,2021-02-05,Central,Office Supplies,Stationery,Notebook Pack,583.55,2,0.15,60.85,Customer 49,Home Office
+OD-2019564,2019-10-01,2019-10-07,Central,Technology,Gadgets,iPhone 13,115.75,4,0.05,15.24,Customer 291,Consumer
+OD-2019565,2021-06-09,2021-06-15,South,Furniture,Chairs & Tables,Wooden Desk,120.74,4,0.15,33.74,Customer 134,Corporate
+OD-2019566,2023-06-29,2023-07-03,South,Office Supplies,Stationery,Stapler,456.43,3,0.05,51.08,Customer 232,Corporate
+OD-2019567,2020-04-23,2020-04-24,Central,Furniture,Chairs & Tables,Wooden Desk,95.67,1,0.0,16.73,Customer 56,Consumer
+OD-2019568,2019-08-05,2019-08-07,South,Technology,Gadgets,Wireless Mouse,148.14,1,0.1,41.34,Customer 209,Consumer
+OD-2019569,2022-01-02,2022-01-05,South,Furniture,Chairs & Tables,Filing Cabinet,1782.86,2,0.1,386.91,Customer 238,Corporate
+OD-2019570,2023-10-12,2023-10-13,South,Furniture,Chairs & Tables,Wooden Desk,65.57,2,0.15,16.23,Customer 21,Consumer
+OD-2019571,2023-09-08,2023-09-15,East,Technology,Gadgets,Samsung Galaxy S21,5304.33,4,0.0,1055.61,Customer 128,Corporate
+OD-2019572,2021-03-22,2021-03-27,South,Furniture,Chairs & Tables,Bookcase,66.89,2,0.1,7.91,Customer 90,Consumer
+OD-2019573,2021-04-08,2021-04-15,Central,Technology,Gadgets,Bluetooth Headset,475.01,1,0.05,28.91,Customer 128,Consumer
+OD-2019574,2021-08-04,2021-08-05,East,Furniture,Chairs & Tables,Office Chair,213.33,1,0.05,30.83,Customer 32,Consumer
+OD-2019575,2019-09-25,2019-09-27,East,Technology,Gadgets,Laptop Pro 15,1933.09,4,0.25,432.07,Customer 299,Home Office
+OD-2019576,2020-06-14,2020-06-21,East,Furniture,Chairs & Tables,Office Chair,159.45,3,0.2,28.26,Customer 102,Home Office
+OD-2019577,2021-06-27,2021-07-04,South,Furniture,Chairs & Tables,Office Chair,103.68,2,0.2,13.54,Customer 63,Consumer
+OD-2019578,2021-08-02,2021-08-03,North,Furniture,Chairs & Tables,Office Table,193.57,4,0.1,34.52,Customer 203,Corporate
+OD-2019579,2019-03-02,2019-03-06,West,Office Supplies,Stationery,Markers,1342.62,1,0.1,110.85,Customer 182,Consumer
+OD-2019580,2020-01-19,2020-01-22,West,Technology,Gadgets,Wireless Mouse,562.55,5,0.0,75.12,Customer 18,Home Office
+OD-2019581,2022-06-22,2022-06-27,North,Furniture,Chairs & Tables,Bookcase,65.11,3,0.25,6.38,Customer 211,Home Office
+OD-2019582,2021-09-08,2021-09-09,North,Furniture,Chairs & Tables,Bookcase,215.37,4,0.3,12.28,Customer 71,Corporate
+OD-2019583,2020-02-13,2020-02-19,Central,Office Supplies,Stationery,Pen Set,2090.39,4,0.0,502.38,Customer 10,Corporate
+OD-2019584,2023-05-21,2023-05-27,Central,Technology,Gadgets,Wireless Mouse,1440.71,3,0.15,214.25,Customer 249,Corporate
+OD-2019585,2022-03-04,2022-03-09,South,Technology,Gadgets,Wireless Mouse,420.03,5,0.0,103.83,Customer 93,Consumer
+OD-2019586,2020-10-15,2020-10-20,South,Furniture,Chairs & Tables,Office Chair,506.71,3,0.0,128.37,Customer 30,Corporate
+OD-2019587,2021-12-20,2021-12-23,West,Office Supplies,Stationery,Pen Set,154.34,5,0.25,10.15,Customer 52,Consumer
+OD-2019588,2022-09-07,2022-09-09,East,Technology,Gadgets,Bluetooth Headset,485.53,3,0.05,121.75,Customer 113,Home Office
+OD-2019589,2023-09-30,2023-10-07,West,Technology,Gadgets,Laptop Pro 15,72.53,1,0.0,18.14,Customer 91,Consumer
+OD-2019590,2022-04-28,2022-05-01,Central,Office Supplies,Stationery,Stapler,165.96,1,0.05,12.61,Customer 15,Home Office
+OD-2019591,2022-12-05,2022-12-08,West,Office Supplies,Stationery,Paper Reams,226.44,2,0.15,50.59,Customer 289,Consumer
+OD-2019592,2023-09-10,2023-09-17,South,Technology,Gadgets,Bluetooth Headset,104.86,2,0.05,20.85,Customer 90,Corporate
+OD-2019593,2019-03-19,2019-03-20,Central,Furniture,Chairs & Tables,Wooden Desk,1313.97,4,0.2,65.7,Customer 113,Consumer
+OD-2019594,2021-12-14,2021-12-18,Central,Furniture,Chairs & Tables,Bookcase,330.74,2,0.05,40.9,Customer 104,Consumer
+OD-2019595,2020-11-28,2020-12-04,East,Furniture,Chairs & Tables,Bookcase,292.89,1,0.2,52.16,Customer 12,Consumer
+OD-2019596,2022-04-16,2022-04-22,Central,Furniture,Chairs & Tables,Office Chair,2463.64,2,0.05,244.63,Customer 187,Consumer
+OD-2019597,2021-02-04,2021-02-10,Central,Office Supplies,Stationery,Markers,2761.57,5,0.05,405.14,Customer 52,Corporate
+OD-2019598,2020-09-10,2020-09-13,North,Furniture,Chairs & Tables,Wooden Desk,5196.49,4,0.05,1549.01,Customer 250,Home Office
+OD-2019599,2020-10-11,2020-10-13,Central,Office Supplies,Stationery,Paper Reams,1589.09,3,0.15,313.16,Customer 183,Consumer
+OD-2019600,2022-09-25,2022-09-30,South,Furniture,Chairs & Tables,Filing Cabinet,735.35,5,0.2,154.74,Customer 151,Consumer
+OD-2019601,2019-12-30,2020-01-05,North,Furniture,Chairs & Tables,Office Table,160.6,5,0.05,10.36,Customer 291,Consumer
+OD-2019602,2020-01-08,2020-01-13,West,Technology,Gadgets,Bluetooth Headset,3412.61,4,0.3,290.83,Customer 290,Consumer
+OD-2019603,2021-10-13,2021-10-15,West,Technology,Gadgets,iPhone 13,129.47,4,0.1,32.99,Customer 178,Corporate
+OD-2019604,2019-12-10,2019-12-16,North,Furniture,Chairs & Tables,Bookcase,1314.15,1,0.1,377.08,Customer 6,Corporate
+OD-2019605,2020-03-05,2020-03-07,South,Office Supplies,Stationery,Notebook Pack,810.42,1,0.0,279.19,Customer 132,Consumer
+OD-2019606,2023-01-15,2023-01-16,North,Furniture,Chairs & Tables,Filing Cabinet,4809.51,4,0.0,1564.27,Customer 215,Consumer
+OD-2019607,2023-12-17,2023-12-21,South,Technology,Gadgets,Wireless Mouse,2256.06,4,0.1,139.41,Customer 280,Corporate
+OD-2019608,2019-07-27,2019-08-03,West,Technology,Gadgets,Bluetooth Headset,28.55,1,0.1,4.74,Customer 84,Corporate
+OD-2019609,2019-05-31,2019-06-07,East,Furniture,Chairs & Tables,Bookcase,30.31,1,0.15,4.03,Customer 164,Corporate
+OD-2019610,2019-08-03,2019-08-04,North,Technology,Gadgets,Samsung Galaxy S21,228.49,2,0.1,67.57,Customer 83,Home Office
+OD-2019611,2019-06-03,2019-06-08,Central,Furniture,Chairs & Tables,Bookcase,1577.7,2,0.05,327.13,Customer 248,Home Office
+OD-2019612,2019-03-05,2019-03-09,Central,Office Supplies,Stationery,Pen Set,1487.76,5,0.0,450.93,Customer 223,Consumer
+OD-2019613,2019-04-20,2019-04-21,West,Technology,Gadgets,Samsung Galaxy S21,100.87,3,0.0,34.11,Customer 210,Home Office
+OD-2019614,2022-02-08,2022-02-14,South,Office Supplies,Stationery,Paper Reams,209.93,4,0.05,66.99,Customer 145,Corporate
+OD-2019615,2020-05-01,2020-05-02,Central,Furniture,Chairs & Tables,Filing Cabinet,1250.15,1,0.2,102.84,Customer 282,Corporate
+OD-2019616,2019-11-11,2019-11-12,North,Technology,Gadgets,iPhone 13,1524.54,2,0.15,349.41,Customer 45,Corporate
+OD-2019617,2023-08-15,2023-08-21,North,Office Supplies,Stationery,Paper Reams,163.45,5,0.05,52.15,Customer 103,Consumer
+OD-2019618,2019-02-22,2019-02-24,East,Furniture,Chairs & Tables,Bookcase,411.42,2,0.2,92.79,Customer 243,Consumer
+OD-2019619,2020-09-23,2020-09-30,North,Technology,Gadgets,Wireless Mouse,83.33,4,0.15,23.94,Customer 136,Consumer
+OD-2019620,2022-08-07,2022-08-12,South,Technology,Gadgets,Samsung Galaxy S21,336.31,2,0.1,90.99,Customer 196,Corporate
+OD-2019621,2020-01-18,2020-01-22,North,Furniture,Chairs & Tables,Bookcase,410.16,4,0.1,107.58,Customer 239,Corporate
+OD-2019622,2020-04-08,2020-04-15,East,Technology,Gadgets,Bluetooth Headset,1667.42,5,0.0,340.83,Customer 78,Home Office
+OD-2019623,2022-09-28,2022-09-29,Central,Furniture,Chairs & Tables,Bookcase,466.08,3,0.0,90.54,Customer 212,Home Office
+OD-2019624,2020-04-10,2020-04-15,Central,Furniture,Chairs & Tables,Filing Cabinet,4521.11,5,0.0,1568.94,Customer 215,Home Office
+OD-2019625,2022-11-08,2022-11-15,West,Technology,Gadgets,Bluetooth Headset,104.89,2,0.05,19.38,Customer 244,Corporate
+OD-2019626,2019-06-11,2019-06-15,Central,Office Supplies,Stationery,Notebook Pack,217.83,3,0.0,14.66,Customer 293,Home Office
+OD-2019627,2023-06-28,2023-07-03,West,Office Supplies,Stationery,Paper Reams,2451.42,3,0.15,261.09,Customer 62,Corporate
+OD-2019628,2019-12-21,2019-12-23,West,Furniture,Chairs & Tables,Wooden Desk,408.69,4,0.1,44.92,Customer 22,Corporate
+OD-2019629,2019-06-10,2019-06-16,West,Technology,Gadgets,Samsung Galaxy S21,1813.84,2,0.0,366.01,Customer 133,Corporate
+OD-2019630,2023-01-29,2023-02-05,North,Furniture,Chairs & Tables,Office Chair,1436.68,3,0.0,147.36,Customer 285,Corporate
+OD-2019631,2022-02-04,2022-02-07,North,Technology,Gadgets,Bluetooth Headset,603.9,2,0.25,101.68,Customer 7,Home Office
+OD-2019632,2022-06-30,2022-07-05,East,Office Supplies,Stationery,Markers,959.42,3,0.05,253.05,Customer 213,Consumer
+OD-2019633,2019-10-31,2019-11-05,East,Office Supplies,Stationery,Paper Reams,677.29,3,0.25,161.42,Customer 55,Home Office
+OD-2019634,2023-05-16,2023-05-17,South,Technology,Gadgets,Bluetooth Headset,417.99,5,0.2,71.34,Customer 211,Corporate
+OD-2019635,2021-02-23,2021-03-01,Central,Technology,Gadgets,Bluetooth Headset,1480.84,5,0.0,453.89,Customer 243,Consumer
+OD-2019636,2019-12-19,2019-12-22,Central,Technology,Gadgets,Samsung Galaxy S21,2045.74,4,0.0,642.05,Customer 206,Consumer
+OD-2019637,2021-03-21,2021-03-24,East,Office Supplies,Stationery,Pen Set,48.45,1,0.15,2.65,Customer 244,Corporate
+OD-2019638,2021-02-01,2021-02-02,South,Technology,Gadgets,Laptop Pro 15,132.57,4,0.05,37.46,Customer 144,Corporate
+OD-2019639,2023-10-24,2023-10-30,West,Office Supplies,Stationery,Notebook Pack,1042.66,2,0.0,142.85,Customer 69,Corporate
+OD-2019640,2023-03-04,2023-03-08,North,Technology,Gadgets,Laptop Pro 15,514.18,5,0.05,102.39,Customer 46,Consumer
+OD-2019641,2021-06-23,2021-06-25,Central,Technology,Gadgets,Wireless Mouse,2405.67,5,0.05,610.06,Customer 192,Consumer
+OD-2019642,2021-11-21,2021-11-28,South,Furniture,Chairs & Tables,Office Chair,373.53,5,0.0,100.41,Customer 260,Corporate
+OD-2019643,2019-10-05,2019-10-12,East,Office Supplies,Stationery,Paper Reams,657.81,4,0.1,103.48,Customer 89,Consumer
+OD-2019644,2023-11-28,2023-12-05,West,Furniture,Chairs & Tables,Office Chair,1071.93,5,0.2,253.33,Customer 17,Corporate
+OD-2019645,2019-04-14,2019-04-17,South,Office Supplies,Stationery,Pen Set,147.95,3,0.05,45.06,Customer 189,Corporate
+OD-2019646,2021-10-31,2021-11-04,East,Office Supplies,Stationery,Notebook Pack,795.28,4,0.15,143.81,Customer 124,Corporate
+OD-2019647,2021-09-28,2021-10-03,North,Technology,Gadgets,Samsung Galaxy S21,1239.47,1,0.15,59.21,Customer 283,Corporate
+OD-2019648,2020-12-06,2020-12-08,South,Technology,Gadgets,iPhone 13,1003.77,2,0.1,175.76,Customer 15,Corporate
+OD-2019649,2019-04-12,2019-04-14,West,Office Supplies,Stationery,Pen Set,85.49,1,0.1,6.85,Customer 116,Home Office
+OD-2019650,2020-02-28,2020-03-02,Central,Office Supplies,Stationery,Markers,829.61,5,0.1,75.88,Customer 11,Home Office
+OD-2019651,2019-01-19,2019-01-23,Central,Furniture,Chairs & Tables,Wooden Desk,519.88,1,0.0,54.1,Customer 5,Consumer
+OD-2019652,2020-05-31,2020-06-05,North,Technology,Gadgets,Laptop Pro 15,510.39,3,0.1,123.43,Customer 193,Corporate
+OD-2019653,2021-07-29,2021-08-01,South,Furniture,Chairs & Tables,Filing Cabinet,19.12,1,0.0,1.77,Customer 267,Home Office
+OD-2019654,2021-03-24,2021-03-29,Central,Furniture,Chairs & Tables,Office Chair,294.44,4,0.0,82.27,Customer 192,Home Office
+OD-2019655,2022-08-18,2022-08-23,South,Office Supplies,Stationery,Stapler,1059.86,5,0.0,206.41,Customer 56,Corporate
+OD-2019656,2019-05-11,2019-05-14,South,Technology,Gadgets,Laptop Pro 15,308.06,4,0.0,92.94,Customer 134,Home Office
+OD-2019657,2022-12-27,2023-01-02,West,Technology,Gadgets,Samsung Galaxy S21,45.76,2,0.05,5.24,Customer 265,Consumer
+OD-2019658,2019-04-27,2019-05-04,South,Office Supplies,Stationery,Markers,163.69,3,0.05,33.0,Customer 72,Home Office
+OD-2019659,2019-02-22,2019-02-28,South,Technology,Gadgets,Laptop Pro 15,101.18,5,0.05,8.22,Customer 215,Corporate
+OD-2019660,2021-03-06,2021-03-12,Central,Furniture,Chairs & Tables,Office Table,154.4,3,0.0,47.8,Customer 98,Corporate
+OD-2019661,2023-01-27,2023-02-02,North,Furniture,Chairs & Tables,Office Table,322.5,4,0.0,95.11,Customer 184,Home Office
+OD-2019662,2020-09-06,2020-09-13,West,Furniture,Chairs & Tables,Office Table,96.42,1,0.0,31.88,Customer 151,Consumer
+OD-2019663,2021-08-22,2021-08-24,Central,Office Supplies,Stationery,Stapler,452.49,2,0.0,114.12,Customer 94,Home Office
+OD-2019664,2020-11-18,2020-11-24,South,Furniture,Chairs & Tables,Wooden Desk,84.78,4,0.0,12.04,Customer 115,Home Office
+OD-2019665,2023-11-20,2023-11-23,South,Technology,Gadgets,Laptop Pro 15,68.22,3,0.05,20.31,Customer 134,Home Office
+OD-2019666,2020-08-25,2020-08-29,East,Furniture,Chairs & Tables,Filing Cabinet,749.57,5,0.05,53.53,Customer 299,Home Office
+OD-2019667,2022-06-25,2022-06-26,Central,Technology,Gadgets,Samsung Galaxy S21,54.28,1,0.0,6.06,Customer 62,Home Office
+OD-2019668,2021-02-20,2021-02-25,East,Technology,Gadgets,Wireless Mouse,86.27,4,0.1,18.61,Customer 78,Consumer
+OD-2019669,2020-02-15,2020-02-18,North,Technology,Gadgets,Bluetooth Headset,481.6,3,0.3,49.75,Customer 74,Corporate
+OD-2019670,2023-11-02,2023-11-08,North,Furniture,Chairs & Tables,Office Chair,1146.07,2,0.0,235.64,Customer 171,Home Office
+OD-2019671,2019-12-29,2020-01-01,East,Office Supplies,Stationery,Notebook Pack,34.32,1,0.0,5.87,Customer 232,Corporate
+OD-2019672,2020-03-04,2020-03-11,West,Furniture,Chairs & Tables,Office Table,163.64,5,0.05,23.93,Customer 251,Consumer
+OD-2019673,2019-09-23,2019-09-28,North,Technology,Gadgets,Wireless Mouse,802.28,4,0.0,156.37,Customer 220,Corporate
+OD-2019674,2021-02-24,2021-02-25,West,Furniture,Chairs & Tables,Office Table,648.81,2,0.25,112.45,Customer 192,Consumer
+OD-2019675,2020-10-21,2020-10-28,East,Office Supplies,Stationery,Pen Set,433.65,3,0.05,106.59,Customer 3,Home Office
+OD-2019676,2023-02-11,2023-02-13,South,Furniture,Chairs & Tables,Bookcase,217.89,3,0.1,47.55,Customer 67,Consumer
+OD-2019677,2021-02-24,2021-03-01,West,Office Supplies,Stationery,Stapler,450.08,3,0.1,106.12,Customer 34,Consumer
+OD-2019678,2020-09-02,2020-09-05,Central,Technology,Gadgets,Bluetooth Headset,1205.06,1,0.1,336.03,Customer 269,Corporate
+OD-2019679,2021-06-07,2021-06-13,North,Furniture,Chairs & Tables,Bookcase,48.56,1,0.0,16.19,Customer 184,Consumer
+OD-2019680,2019-12-04,2019-12-11,West,Technology,Gadgets,iPhone 13,297.16,3,0.1,69.63,Customer 115,Home Office
+OD-2019681,2019-09-26,2019-09-28,Central,Office Supplies,Stationery,Notebook Pack,19.06,1,0.1,2.16,Customer 259,Consumer
+OD-2019682,2019-09-10,2019-09-13,North,Office Supplies,Stationery,Notebook Pack,228.3,4,0.05,65.49,Customer 131,Home Office
+OD-2019683,2022-06-30,2022-07-01,East,Office Supplies,Stationery,Notebook Pack,343.62,2,0.0,18.04,Customer 11,Consumer
+OD-2019684,2022-11-13,2022-11-14,North,Technology,Gadgets,Wireless Mouse,112.8,2,0.0,32.96,Customer 64,Home Office
+OD-2019685,2020-06-01,2020-06-05,West,Office Supplies,Stationery,Pen Set,5254.51,4,0.0,1191.91,Customer 5,Corporate
+OD-2019686,2021-05-11,2021-05-17,South,Furniture,Chairs & Tables,Office Table,1293.05,1,0.0,341.64,Customer 71,Corporate
+OD-2019687,2023-08-29,2023-08-30,East,Office Supplies,Stationery,Paper Reams,112.55,1,0.15,5.18,Customer 145,Consumer
+OD-2019688,2023-05-27,2023-05-28,Central,Technology,Gadgets,Samsung Galaxy S21,476.58,1,0.0,154.1,Customer 103,Corporate
+OD-2019689,2023-08-30,2023-09-04,North,Furniture,Chairs & Tables,Bookcase,98.69,3,0.1,22.37,Customer 152,Consumer
+OD-2019690,2019-03-22,2019-03-27,North,Technology,Gadgets,Samsung Galaxy S21,447.08,2,0.15,112.83,Customer 170,Consumer
+OD-2019691,2019-01-06,2019-01-07,East,Office Supplies,Stationery,Notebook Pack,891.05,3,0.1,218.82,Customer 294,Home Office
+OD-2019692,2021-10-08,2021-10-10,East,Furniture,Chairs & Tables,Office Table,867.32,3,0.05,268.8,Customer 52,Corporate
+OD-2019693,2022-08-12,2022-08-14,South,Technology,Gadgets,Laptop Pro 15,1525.08,3,0.2,396.0,Customer 238,Consumer
+OD-2019694,2019-07-24,2019-07-31,South,Furniture,Chairs & Tables,Office Chair,2392.5,5,0.15,352.63,Customer 185,Home Office
+OD-2019695,2020-10-02,2020-10-06,East,Office Supplies,Stationery,Notebook Pack,2586.22,2,0.15,439.28,Customer 24,Consumer
+OD-2019696,2023-10-11,2023-10-13,South,Office Supplies,Stationery,Pen Set,2729.41,2,0.0,811.79,Customer 184,Corporate
+OD-2019697,2022-06-27,2022-06-30,South,Office Supplies,Stationery,Notebook Pack,2290.52,3,0.0,459.91,Customer 176,Consumer
+OD-2019698,2019-08-22,2019-08-26,South,Technology,Gadgets,Wireless Mouse,6289.31,5,0.2,410.66,Customer 198,Home Office
+OD-2019699,2023-10-09,2023-10-13,East,Technology,Gadgets,Samsung Galaxy S21,486.47,3,0.0,47.6,Customer 68,Home Office
+OD-2019700,2023-01-27,2023-01-28,North,Furniture,Chairs & Tables,Office Chair,553.65,5,0.25,113.79,Customer 248,Home Office
+OD-2019701,2022-10-21,2022-10-25,North,Furniture,Chairs & Tables,Office Table,233.83,3,0.15,10.41,Customer 184,Home Office
+OD-2019702,2019-03-01,2019-03-08,North,Office Supplies,Stationery,Pen Set,5054.41,4,0.05,754.18,Customer 250,Consumer
+OD-2019703,2023-12-23,2023-12-27,East,Technology,Gadgets,iPhone 13,168.68,2,0.15,16.46,Customer 134,Home Office
+OD-2019704,2020-10-05,2020-10-06,Central,Office Supplies,Stationery,Paper Reams,403.67,5,0.05,50.41,Customer 290,Consumer
+OD-2019705,2022-10-03,2022-10-10,Central,Technology,Gadgets,Bluetooth Headset,19.41,1,0.05,3.98,Customer 49,Corporate
+OD-2019706,2022-09-17,2022-09-23,South,Furniture,Chairs & Tables,Filing Cabinet,593.26,3,0.2,120.11,Customer 198,Consumer
+OD-2019707,2023-09-15,2023-09-22,East,Office Supplies,Stationery,Paper Reams,208.47,1,0.05,10.69,Customer 6,Home Office
+OD-2019708,2019-11-18,2019-11-23,West,Technology,Gadgets,Wireless Mouse,103.22,1,0.1,15.37,Customer 39,Corporate
+OD-2019709,2020-10-18,2020-10-20,East,Technology,Gadgets,Laptop Pro 15,109.81,5,0.2,18.41,Customer 260,Consumer
+OD-2019710,2022-02-01,2022-02-07,West,Technology,Gadgets,Wireless Mouse,121.12,4,0.05,17.67,Customer 41,Corporate
+OD-2019711,2021-06-28,2021-07-05,East,Office Supplies,Stationery,Markers,2703.2,3,0.0,649.83,Customer 256,Corporate
+OD-2019712,2020-10-09,2020-10-10,East,Technology,Gadgets,iPhone 13,219.08,3,0.0,31.39,Customer 207,Corporate
+OD-2019713,2019-03-15,2019-03-20,East,Office Supplies,Stationery,Notebook Pack,447.26,3,0.25,78.79,Customer 156,Home Office
+OD-2019714,2022-02-25,2022-02-27,South,Office Supplies,Stationery,Markers,2582.89,5,0.05,520.86,Customer 187,Consumer
+OD-2019715,2023-07-31,2023-08-02,Central,Technology,Gadgets,Laptop Pro 15,654.26,2,0.0,130.87,Customer 243,Home Office
+OD-2019716,2022-09-07,2022-09-10,East,Office Supplies,Stationery,Markers,479.29,3,0.0,159.86,Customer 50,Home Office
+OD-2019717,2020-03-30,2020-03-31,South,Technology,Gadgets,Laptop Pro 15,97.34,1,0.0,9.04,Customer 281,Home Office
+OD-2019718,2021-02-04,2021-02-10,West,Furniture,Chairs & Tables,Office Chair,39.65,2,0.05,12.0,Customer 253,Consumer
+OD-2019719,2023-08-11,2023-08-17,East,Office Supplies,Stationery,Markers,45.61,2,0.15,9.05,Customer 131,Home Office
+OD-2019720,2020-02-06,2020-02-08,West,Furniture,Chairs & Tables,Filing Cabinet,1626.97,3,0.05,487.93,Customer 235,Consumer
+OD-2019721,2023-01-07,2023-01-10,East,Furniture,Chairs & Tables,Filing Cabinet,2401.57,3,0.0,641.3,Customer 64,Corporate
+OD-2019722,2021-07-25,2021-07-31,West,Office Supplies,Stationery,Paper Reams,562.42,1,0.0,49.61,Customer 256,Consumer
+OD-2019723,2021-12-22,2021-12-28,North,Furniture,Chairs & Tables,Office Table,208.05,1,0.0,63.77,Customer 300,Corporate
+OD-2019724,2021-11-07,2021-11-14,West,Furniture,Chairs & Tables,Office Table,238.17,5,0.05,55.28,Customer 66,Consumer
+OD-2019725,2021-03-04,2021-03-10,South,Office Supplies,Stationery,Paper Reams,100.62,2,0.0,6.3,Customer 259,Corporate
+OD-2019726,2021-05-07,2021-05-12,South,Office Supplies,Stationery,Pen Set,2197.23,4,0.15,399.07,Customer 204,Corporate
+OD-2019727,2020-08-25,2020-08-29,North,Furniture,Chairs & Tables,Wooden Desk,30.75,1,0.15,4.71,Customer 263,Corporate
+OD-2019728,2023-09-23,2023-09-29,Central,Office Supplies,Stationery,Stapler,5751.41,5,0.05,387.94,Customer 112,Consumer
+OD-2019729,2020-03-05,2020-03-10,South,Office Supplies,Stationery,Stapler,614.35,3,0.05,155.73,Customer 68,Home Office
+OD-2019730,2022-08-24,2022-08-26,South,Office Supplies,Stationery,Paper Reams,2726.06,2,0.05,775.4,Customer 60,Corporate
+OD-2019731,2022-02-25,2022-03-01,North,Office Supplies,Stationery,Paper Reams,475.53,1,0.15,113.92,Customer 274,Corporate
+OD-2019732,2023-12-03,2023-12-10,Central,Technology,Gadgets,iPhone 13,82.75,1,0.1,21.19,Customer 55,Consumer
+OD-2019733,2021-02-19,2021-02-21,West,Furniture,Chairs & Tables,Office Chair,1085.49,5,0.15,50.18,Customer 137,Consumer
+OD-2019734,2020-08-09,2020-08-15,East,Technology,Gadgets,Samsung Galaxy S21,3542.31,3,0.0,1123.35,Customer 152,Consumer
+OD-2019735,2023-03-24,2023-03-29,North,Furniture,Chairs & Tables,Bookcase,4526.58,5,0.15,881.66,Customer 53,Home Office
+OD-2019736,2023-11-13,2023-11-19,West,Office Supplies,Stationery,Paper Reams,168.08,2,0.05,44.31,Customer 288,Corporate
+OD-2019737,2020-05-01,2020-05-06,East,Office Supplies,Stationery,Stapler,3305.58,4,0.1,493.45,Customer 196,Corporate
+OD-2019738,2021-05-03,2021-05-10,Central,Office Supplies,Stationery,Stapler,1497.45,3,0.0,265.73,Customer 28,Consumer
+OD-2019739,2023-03-04,2023-03-07,North,Furniture,Chairs & Tables,Office Table,3364.52,4,0.0,245.92,Customer 116,Home Office
+OD-2019740,2022-12-14,2022-12-20,Central,Office Supplies,Stationery,Stapler,61.59,2,0.15,12.98,Customer 280,Home Office
+OD-2019741,2022-05-20,2022-05-22,South,Office Supplies,Stationery,Pen Set,158.5,1,0.1,39.15,Customer 230,Consumer
+OD-2019742,2022-10-30,2022-10-31,Central,Furniture,Chairs & Tables,Wooden Desk,105.57,5,0.15,16.95,Customer 62,Corporate
+OD-2019743,2019-03-25,2019-03-29,South,Technology,Gadgets,Bluetooth Headset,6414.36,5,0.0,1594.55,Customer 67,Consumer
+OD-2019744,2022-04-11,2022-04-18,South,Technology,Gadgets,iPhone 13,917.33,4,0.15,219.96,Customer 239,Home Office
+OD-2019745,2019-11-14,2019-11-15,Central,Furniture,Chairs & Tables,Bookcase,82.92,4,0.0,10.6,Customer 27,Home Office
+OD-2019746,2022-06-14,2022-06-21,North,Office Supplies,Stationery,Stapler,563.85,5,0.15,114.55,Customer 294,Home Office
+OD-2019747,2021-01-03,2021-01-04,Central,Office Supplies,Stationery,Stapler,310.74,2,0.0,63.47,Customer 113,Consumer
+OD-2019748,2021-12-02,2021-12-03,North,Office Supplies,Stationery,Pen Set,1149.23,5,0.15,296.43,Customer 279,Home Office
+OD-2019749,2021-04-06,2021-04-07,West,Technology,Gadgets,Samsung Galaxy S21,63.92,3,0.0,5.02,Customer 170,Corporate
+OD-2019750,2021-01-08,2021-01-11,Central,Furniture,Chairs & Tables,Office Table,5456.23,4,0.15,1170.01,Customer 244,Home Office
+OD-2019751,2023-08-14,2023-08-21,East,Office Supplies,Stationery,Notebook Pack,3593.88,3,0.0,623.03,Customer 178,Corporate
+OD-2019752,2020-05-07,2020-05-13,West,Office Supplies,Stationery,Paper Reams,47.72,1,0.05,12.93,Customer 21,Home Office
+OD-2019753,2023-12-19,2023-12-22,North,Technology,Gadgets,iPhone 13,298.92,3,0.0,83.49,Customer 132,Home Office
+OD-2019754,2023-01-22,2023-01-25,South,Furniture,Chairs & Tables,Office Table,44.1,2,0.0,13.28,Customer 264,Home Office
+OD-2019755,2021-07-01,2021-07-05,West,Furniture,Chairs & Tables,Bookcase,2550.43,3,0.1,710.03,Customer 165,Home Office
+OD-2019756,2019-06-18,2019-06-19,Central,Furniture,Chairs & Tables,Office Table,106.62,2,0.3,20.68,Customer 4,Home Office
+OD-2019757,2019-05-15,2019-05-17,North,Office Supplies,Stationery,Pen Set,98.23,3,0.05,11.07,Customer 54,Consumer
+OD-2019758,2022-01-06,2022-01-13,East,Office Supplies,Stationery,Markers,681.38,3,0.2,83.17,Customer 79,Consumer
+OD-2019759,2021-07-29,2021-08-04,East,Technology,Gadgets,iPhone 13,6263.14,5,0.05,1179.55,Customer 38,Consumer
+OD-2019760,2019-12-31,2020-01-07,East,Technology,Gadgets,Bluetooth Headset,874.42,1,0.1,51.94,Customer 295,Consumer
+OD-2019761,2020-06-13,2020-06-17,North,Technology,Gadgets,Wireless Mouse,92.02,3,0.2,6.11,Customer 222,Corporate
+OD-2019762,2019-02-04,2019-02-08,Central,Office Supplies,Stationery,Notebook Pack,322.9,3,0.0,78.55,Customer 4,Home Office
+OD-2019763,2023-01-15,2023-01-20,East,Furniture,Chairs & Tables,Office Table,481.98,1,0.1,119.0,Customer 38,Corporate
+OD-2019764,2021-10-26,2021-10-27,Central,Technology,Gadgets,Laptop Pro 15,78.87,4,0.1,13.24,Customer 45,Corporate
+OD-2019765,2023-04-17,2023-04-21,East,Technology,Gadgets,Wireless Mouse,28.61,1,0.15,5.66,Customer 243,Consumer
+OD-2019766,2021-12-28,2021-12-30,Central,Furniture,Chairs & Tables,Filing Cabinet,999.51,3,0.25,158.01,Customer 152,Home Office
+OD-2019767,2019-10-23,2019-10-26,East,Office Supplies,Stationery,Stapler,63.87,2,0.0,20.85,Customer 284,Home Office
+OD-2019768,2019-10-17,2019-10-18,Central,Furniture,Chairs & Tables,Office Chair,2564.56,2,0.05,159.82,Customer 202,Home Office
+OD-2019769,2022-01-26,2022-01-27,South,Technology,Gadgets,Samsung Galaxy S21,1494.24,5,0.2,280.79,Customer 109,Corporate
+OD-2019770,2022-08-15,2022-08-22,West,Office Supplies,Stationery,Pen Set,630.19,3,0.3,112.5,Customer 95,Consumer
+OD-2019771,2022-06-17,2022-06-24,East,Technology,Gadgets,Samsung Galaxy S21,333.0,3,0.2,23.33,Customer 93,Home Office
+OD-2019772,2023-06-26,2023-07-01,North,Furniture,Chairs & Tables,Office Table,223.48,3,0.1,46.44,Customer 282,Consumer
+OD-2019773,2020-08-18,2020-08-24,East,Furniture,Chairs & Tables,Bookcase,341.45,1,0.15,25.65,Customer 102,Home Office
+OD-2019774,2022-04-04,2022-04-08,West,Technology,Gadgets,Laptop Pro 15,829.66,4,0.05,197.67,Customer 121,Consumer
+OD-2019775,2020-08-06,2020-08-11,South,Furniture,Chairs & Tables,Wooden Desk,106.04,2,0.15,15.76,Customer 249,Corporate
+OD-2019776,2020-11-03,2020-11-08,Central,Office Supplies,Stationery,Stapler,62.7,2,0.0,20.86,Customer 79,Home Office
+OD-2019777,2022-03-06,2022-03-09,West,Technology,Gadgets,Wireless Mouse,422.39,4,0.3,29.51,Customer 3,Corporate
+OD-2019778,2020-05-19,2020-05-26,South,Furniture,Chairs & Tables,Filing Cabinet,1177.34,4,0.0,281.59,Customer 185,Consumer
+OD-2019779,2022-10-23,2022-10-29,North,Technology,Gadgets,Wireless Mouse,1463.9,5,0.0,229.24,Customer 229,Corporate
+OD-2019780,2023-05-06,2023-05-09,East,Technology,Gadgets,Bluetooth Headset,372.04,5,0.15,29.75,Customer 90,Home Office
+OD-2019781,2022-05-27,2022-05-28,Central,Technology,Gadgets,Samsung Galaxy S21,436.53,2,0.1,38.03,Customer 101,Corporate
+OD-2019782,2023-02-11,2023-02-17,East,Furniture,Chairs & Tables,Office Chair,606.43,2,0.0,30.89,Customer 260,Home Office
+OD-2019783,2019-03-05,2019-03-12,North,Office Supplies,Stationery,Paper Reams,773.16,4,0.05,104.25,Customer 109,Consumer
+OD-2019784,2022-02-03,2022-02-06,North,Office Supplies,Stationery,Paper Reams,192.28,1,0.05,34.26,Customer 77,Corporate
+OD-2019785,2021-03-14,2021-03-16,West,Office Supplies,Stationery,Stapler,2662.14,5,0.1,678.32,Customer 238,Home Office
+OD-2019786,2021-11-11,2021-11-12,Central,Technology,Gadgets,Laptop Pro 15,447.21,2,0.3,99.19,Customer 6,Home Office
+OD-2019787,2020-05-04,2020-05-11,Central,Office Supplies,Stationery,Pen Set,3164.91,4,0.05,819.29,Customer 72,Corporate
+OD-2019788,2019-11-23,2019-11-25,West,Office Supplies,Stationery,Paper Reams,670.59,4,0.05,196.18,Customer 248,Corporate
+OD-2019789,2019-03-24,2019-03-26,East,Technology,Gadgets,Samsung Galaxy S21,435.88,2,0.05,84.54,Customer 136,Corporate
+OD-2019790,2020-04-24,2020-04-25,Central,Office Supplies,Stationery,Pen Set,111.36,5,0.05,28.66,Customer 185,Corporate
+OD-2019791,2021-08-19,2021-08-23,South,Furniture,Chairs & Tables,Office Chair,3596.55,4,0.05,1165.34,Customer 53,Home Office
+OD-2019792,2021-12-03,2021-12-09,Central,Technology,Gadgets,Laptop Pro 15,1173.89,1,0.1,111.55,Customer 279,Home Office
+OD-2019793,2019-12-23,2019-12-27,South,Office Supplies,Stationery,Markers,147.99,3,0.15,17.07,Customer 40,Home Office
+OD-2019794,2020-05-30,2020-06-03,North,Furniture,Chairs & Tables,Office Table,857.99,5,0.1,71.74,Customer 181,Corporate
+OD-2019795,2021-09-24,2021-10-01,East,Technology,Gadgets,Bluetooth Headset,2456.35,3,0.0,533.12,Customer 257,Consumer
+OD-2019796,2021-06-19,2021-06-21,Central,Furniture,Chairs & Tables,Office Chair,492.51,5,0.1,51.49,Customer 144,Consumer
+OD-2019797,2019-11-04,2019-11-06,Central,Furniture,Chairs & Tables,Bookcase,4217.56,5,0.1,1045.75,Customer 61,Home Office
+OD-2019798,2020-04-16,2020-04-20,North,Technology,Gadgets,iPhone 13,4434.08,5,0.1,1097.75,Customer 246,Corporate
+OD-2019799,2020-03-07,2020-03-12,East,Furniture,Chairs & Tables,Filing Cabinet,84.87,4,0.0,11.73,Customer 125,Consumer
+OD-2019800,2019-09-19,2019-09-24,West,Office Supplies,Stationery,Pen Set,2299.23,2,0.0,258.12,Customer 263,Consumer
+OD-2019801,2023-12-30,2024-01-04,West,Furniture,Chairs & Tables,Office Chair,2563.17,2,0.0,722.19,Customer 133,Consumer
+OD-2019802,2021-11-24,2021-11-28,East,Office Supplies,Stationery,Paper Reams,1047.45,5,0.05,227.95,Customer 146,Consumer
+OD-2019803,2020-03-19,2020-03-23,North,Office Supplies,Stationery,Markers,154.44,5,0.15,13.29,Customer 88,Consumer
+OD-2019804,2023-08-28,2023-09-01,Central,Office Supplies,Stationery,Pen Set,479.55,5,0.1,50.94,Customer 94,Home Office
+OD-2019805,2022-09-12,2022-09-17,South,Technology,Gadgets,Samsung Galaxy S21,78.9,1,0.05,4.88,Customer 233,Home Office
+OD-2019806,2022-04-24,2022-04-25,North,Furniture,Chairs & Tables,Filing Cabinet,89.65,4,0.2,25.02,Customer 68,Consumer
+OD-2019807,2019-02-03,2019-02-05,North,Office Supplies,Stationery,Paper Reams,220.15,4,0.0,33.2,Customer 77,Home Office
+OD-2019808,2019-07-17,2019-07-19,Central,Technology,Gadgets,Bluetooth Headset,88.37,4,0.2,7.55,Customer 20,Home Office
+OD-2019809,2021-10-27,2021-11-03,North,Furniture,Chairs & Tables,Office Chair,64.33,3,0.0,4.29,Customer 67,Home Office
+OD-2019810,2022-01-09,2022-01-16,Central,Furniture,Chairs & Tables,Filing Cabinet,59.53,3,0.1,16.45,Customer 216,Corporate
+OD-2019811,2023-11-27,2023-11-28,North,Office Supplies,Stationery,Paper Reams,286.15,2,0.15,50.45,Customer 118,Corporate
+OD-2019812,2023-06-06,2023-06-13,Central,Technology,Gadgets,Laptop Pro 15,19.94,1,0.0,1.18,Customer 295,Consumer
+OD-2019813,2021-05-21,2021-05-23,West,Technology,Gadgets,Wireless Mouse,97.52,3,0.25,9.48,Customer 43,Corporate
+OD-2019814,2022-05-10,2022-05-15,West,Technology,Gadgets,Laptop Pro 15,162.85,1,0.0,49.58,Customer 3,Home Office
+OD-2019815,2023-03-03,2023-03-10,Central,Furniture,Chairs & Tables,Office Table,262.82,5,0.05,80.87,Customer 61,Home Office
+OD-2019816,2019-01-15,2019-01-19,South,Office Supplies,Stationery,Pen Set,3331.6,4,0.1,638.39,Customer 210,Corporate
+OD-2019817,2019-08-07,2019-08-09,South,Technology,Gadgets,Bluetooth Headset,829.7,4,0.15,94.11,Customer 134,Home Office
+OD-2019818,2021-05-17,2021-05-22,South,Technology,Gadgets,Bluetooth Headset,58.07,3,0.3,8.63,Customer 204,Consumer
+OD-2019819,2021-04-26,2021-05-01,West,Office Supplies,Stationery,Markers,1365.36,4,0.05,142.09,Customer 190,Home Office
+OD-2019820,2022-02-10,2022-02-14,Central,Technology,Gadgets,Laptop Pro 15,1497.0,3,0.1,177.69,Customer 177,Home Office
+OD-2019821,2021-03-26,2021-04-01,West,Furniture,Chairs & Tables,Office Chair,2831.62,5,0.0,145.85,Customer 229,Home Office
+OD-2019822,2019-11-28,2019-11-29,North,Furniture,Chairs & Tables,Office Table,1100.24,2,0.15,208.89,Customer 174,Home Office
+OD-2019823,2022-06-11,2022-06-17,West,Office Supplies,Stationery,Notebook Pack,1002.13,3,0.15,56.8,Customer 200,Home Office
+OD-2019824,2019-01-11,2019-01-18,North,Furniture,Chairs & Tables,Wooden Desk,1624.06,3,0.05,263.4,Customer 223,Consumer
+OD-2019825,2019-05-12,2019-05-15,East,Furniture,Chairs & Tables,Bookcase,165.22,2,0.0,23.07,Customer 20,Home Office
+OD-2019826,2021-02-26,2021-03-02,South,Office Supplies,Stationery,Paper Reams,148.22,1,0.0,22.62,Customer 30,Consumer
+OD-2019827,2022-08-04,2022-08-08,West,Technology,Gadgets,iPhone 13,83.71,1,0.0,22.64,Customer 266,Corporate
+OD-2019828,2020-02-03,2020-02-04,Central,Office Supplies,Stationery,Paper Reams,75.57,1,0.05,10.05,Customer 119,Home Office
+OD-2019829,2019-12-14,2019-12-20,West,Furniture,Chairs & Tables,Bookcase,1965.76,4,0.0,420.69,Customer 1,Consumer
+OD-2019830,2019-06-27,2019-06-30,North,Technology,Gadgets,Laptop Pro 15,1222.55,1,0.15,257.3,Customer 208,Home Office
+OD-2019831,2020-02-15,2020-02-20,East,Furniture,Chairs & Tables,Office Chair,222.84,2,0.1,49.56,Customer 282,Corporate
+OD-2019832,2023-01-27,2023-02-03,South,Office Supplies,Stationery,Paper Reams,926.91,3,0.0,49.35,Customer 178,Corporate
+OD-2019833,2020-04-08,2020-04-13,North,Furniture,Chairs & Tables,Filing Cabinet,290.92,3,0.0,46.1,Customer 295,Consumer
+OD-2019834,2020-06-18,2020-06-20,East,Technology,Gadgets,Bluetooth Headset,446.82,3,0.0,102.08,Customer 287,Consumer
+OD-2019835,2021-10-27,2021-10-30,Central,Technology,Gadgets,iPhone 13,286.95,1,0.1,54.15,Customer 132,Home Office
+OD-2019836,2023-07-24,2023-07-31,North,Office Supplies,Stationery,Stapler,787.6,4,0.1,98.46,Customer 194,Home Office
+OD-2019837,2021-09-17,2021-09-24,North,Furniture,Chairs & Tables,Bookcase,776.03,5,0.15,39.27,Customer 236,Home Office
+OD-2019838,2023-11-01,2023-11-02,South,Technology,Gadgets,iPhone 13,199.6,2,0.0,16.91,Customer 35,Corporate
+OD-2019839,2022-07-21,2022-07-28,South,Furniture,Chairs & Tables,Wooden Desk,20.83,1,0.0,4.88,Customer 212,Corporate
+OD-2019840,2021-11-23,2021-11-28,West,Furniture,Chairs & Tables,Bookcase,532.76,1,0.05,150.35,Customer 148,Consumer
+OD-2019841,2021-03-28,2021-04-03,East,Office Supplies,Stationery,Stapler,156.82,1,0.05,23.65,Customer 284,Consumer
+OD-2019842,2021-09-02,2021-09-05,Central,Technology,Gadgets,Samsung Galaxy S21,21.23,1,0.0,6.38,Customer 138,Consumer
+OD-2019843,2023-03-09,2023-03-15,West,Furniture,Chairs & Tables,Filing Cabinet,797.35,5,0.0,73.26,Customer 121,Home Office
+OD-2019844,2020-05-10,2020-05-17,West,Technology,Gadgets,Samsung Galaxy S21,6637.81,5,0.0,738.62,Customer 104,Consumer
+OD-2019845,2023-09-09,2023-09-14,East,Technology,Gadgets,Samsung Galaxy S21,651.5,4,0.0,114.81,Customer 62,Consumer
+OD-2019846,2022-10-16,2022-10-22,East,Technology,Gadgets,Bluetooth Headset,1819.87,2,0.0,227.36,Customer 278,Consumer
+OD-2019847,2023-10-03,2023-10-07,South,Technology,Gadgets,Bluetooth Headset,102.98,3,0.1,24.51,Customer 253,Home Office
+OD-2019848,2023-11-15,2023-11-18,Central,Technology,Gadgets,Samsung Galaxy S21,1033.53,5,0.0,241.68,Customer 144,Corporate
+OD-2019849,2020-03-30,2020-04-06,East,Office Supplies,Stationery,Pen Set,144.8,3,0.05,29.6,Customer 270,Corporate
+OD-2019850,2021-09-06,2021-09-11,South,Furniture,Chairs & Tables,Office Table,608.36,2,0.05,184.81,Customer 202,Home Office
+OD-2019851,2023-05-09,2023-05-11,Central,Technology,Gadgets,iPhone 13,41.55,2,0.15,7.4,Customer 236,Corporate
+OD-2019852,2022-11-12,2022-11-13,North,Furniture,Chairs & Tables,Wooden Desk,397.97,5,0.0,128.22,Customer 298,Consumer
+OD-2019853,2020-10-28,2020-10-31,West,Office Supplies,Stationery,Stapler,3147.65,4,0.2,546.71,Customer 281,Corporate
+OD-2019854,2020-04-30,2020-05-03,South,Technology,Gadgets,Bluetooth Headset,1518.92,3,0.15,84.0,Customer 188,Consumer
+OD-2019855,2021-10-18,2021-10-22,South,Furniture,Chairs & Tables,Filing Cabinet,205.18,4,0.0,27.84,Customer 187,Corporate
+OD-2019856,2020-07-26,2020-07-30,West,Furniture,Chairs & Tables,Office Table,316.88,2,0.1,50.92,Customer 295,Home Office
+OD-2019857,2020-04-13,2020-04-20,West,Furniture,Chairs & Tables,Bookcase,133.79,4,0.0,40.12,Customer 285,Corporate
+OD-2019858,2023-10-20,2023-10-24,West,Furniture,Chairs & Tables,Wooden Desk,165.54,2,0.05,28.33,Customer 243,Consumer
+OD-2019859,2019-12-28,2020-01-01,Central,Technology,Gadgets,Samsung Galaxy S21,1011.69,2,0.1,134.36,Customer 274,Home Office
+OD-2019860,2020-10-08,2020-10-15,South,Technology,Gadgets,Laptop Pro 15,167.35,3,0.1,39.01,Customer 288,Home Office
+OD-2019861,2019-04-08,2019-04-12,East,Furniture,Chairs & Tables,Wooden Desk,87.65,4,0.0,22.03,Customer 111,Corporate
+OD-2019862,2021-09-02,2021-09-09,North,Office Supplies,Stationery,Notebook Pack,439.42,3,0.05,98.44,Customer 172,Corporate
+OD-2019863,2021-01-09,2021-01-12,South,Office Supplies,Stationery,Paper Reams,6636.23,5,0.3,498.63,Customer 177,Consumer
+OD-2019864,2021-04-23,2021-04-24,West,Technology,Gadgets,Bluetooth Headset,29.22,1,0.25,2.29,Customer 296,Home Office
+OD-2019865,2022-08-23,2022-08-29,South,Office Supplies,Stationery,Pen Set,303.43,3,0.05,50.49,Customer 182,Corporate
+OD-2019866,2022-10-10,2022-10-15,East,Technology,Gadgets,Wireless Mouse,118.1,4,0.05,31.1,Customer 196,Home Office
+OD-2019867,2020-08-09,2020-08-13,West,Office Supplies,Stationery,Pen Set,1088.08,2,0.0,317.16,Customer 173,Corporate
+OD-2019868,2022-07-16,2022-07-21,East,Office Supplies,Stationery,Markers,53.52,1,0.0,6.43,Customer 41,Consumer
+OD-2019869,2020-12-04,2020-12-06,South,Technology,Gadgets,Laptop Pro 15,335.1,3,0.3,21.26,Customer 137,Home Office
+OD-2019870,2022-08-13,2022-08-17,South,Technology,Gadgets,Wireless Mouse,1033.93,2,0.0,63.92,Customer 267,Corporate
+OD-2019871,2021-04-27,2021-04-29,West,Furniture,Chairs & Tables,Office Chair,51.43,1,0.0,11.57,Customer 121,Home Office
+OD-2019872,2020-05-30,2020-06-05,West,Office Supplies,Stationery,Notebook Pack,1213.54,1,0.0,274.87,Customer 86,Corporate
+OD-2019873,2019-07-30,2019-07-31,Central,Furniture,Chairs & Tables,Filing Cabinet,429.29,5,0.05,54.07,Customer 28,Consumer
+OD-2019874,2023-04-28,2023-05-02,East,Office Supplies,Stationery,Notebook Pack,1017.76,3,0.05,207.84,Customer 135,Home Office
+OD-2019875,2019-11-15,2019-11-16,South,Office Supplies,Stationery,Markers,5333.42,4,0.0,628.4,Customer 118,Consumer
+OD-2019876,2023-02-19,2023-02-22,West,Technology,Gadgets,Samsung Galaxy S21,1704.12,5,0.0,315.29,Customer 270,Consumer
+OD-2019877,2019-02-28,2019-03-01,South,Office Supplies,Stationery,Stapler,483.35,5,0.0,133.28,Customer 244,Corporate
+OD-2019878,2023-11-19,2023-11-24,North,Technology,Gadgets,Bluetooth Headset,393.19,5,0.05,56.15,Customer 70,Home Office
+OD-2019879,2022-01-09,2022-01-11,North,Office Supplies,Stationery,Paper Reams,294.68,4,0.1,77.34,Customer 289,Corporate
+OD-2019880,2021-12-08,2021-12-14,South,Office Supplies,Stationery,Paper Reams,588.47,3,0.0,76.77,Customer 178,Corporate
+OD-2019881,2022-01-10,2022-01-12,South,Furniture,Chairs & Tables,Filing Cabinet,123.8,4,0.1,7.47,Customer 188,Corporate
+OD-2019882,2020-06-16,2020-06-18,East,Technology,Gadgets,iPhone 13,217.89,4,0.0,52.83,Customer 268,Consumer
+OD-2019883,2020-12-05,2020-12-08,East,Technology,Gadgets,Bluetooth Headset,422.71,5,0.2,47.07,Customer 252,Corporate
+OD-2019884,2020-09-05,2020-09-06,Central,Technology,Gadgets,Laptop Pro 15,161.94,3,0.2,37.2,Customer 119,Consumer
+OD-2019885,2022-01-27,2022-01-30,Central,Furniture,Chairs & Tables,Filing Cabinet,2118.23,4,0.0,134.69,Customer 224,Corporate
+OD-2019886,2020-05-26,2020-05-28,North,Office Supplies,Stationery,Markers,289.92,3,0.0,100.58,Customer 113,Corporate
+OD-2019887,2019-06-12,2019-06-16,Central,Office Supplies,Stationery,Pen Set,4155.62,5,0.05,336.29,Customer 140,Corporate
+OD-2019888,2022-08-21,2022-08-27,North,Office Supplies,Stationery,Stapler,106.56,2,0.2,11.66,Customer 97,Consumer
+OD-2019889,2020-01-09,2020-01-11,North,Technology,Gadgets,iPhone 13,155.53,5,0.05,34.82,Customer 232,Corporate
+OD-2019890,2022-12-05,2022-12-10,South,Technology,Gadgets,Samsung Galaxy S21,227.38,1,0.1,60.77,Customer 10,Consumer
+OD-2019891,2019-04-12,2019-04-17,East,Furniture,Chairs & Tables,Wooden Desk,401.49,5,0.05,48.09,Customer 145,Corporate
+OD-2019892,2019-09-14,2019-09-20,West,Technology,Gadgets,iPhone 13,20.97,1,0.0,5.15,Customer 47,Consumer
+OD-2019893,2019-01-31,2019-02-04,North,Furniture,Chairs & Tables,Bookcase,4433.17,5,0.1,811.9,Customer 160,Corporate
+OD-2019894,2021-01-30,2021-02-03,South,Office Supplies,Stationery,Notebook Pack,2418.16,3,0.0,820.11,Customer 42,Consumer
+OD-2019895,2019-04-25,2019-04-28,Central,Technology,Gadgets,iPhone 13,162.79,3,0.1,33.84,Customer 241,Consumer
+OD-2019896,2020-01-29,2020-02-05,East,Technology,Gadgets,Wireless Mouse,310.74,2,0.0,87.19,Customer 63,Home Office
+OD-2019897,2020-05-24,2020-05-28,East,Technology,Gadgets,Samsung Galaxy S21,4353.88,5,0.0,1034.48,Customer 102,Corporate
+OD-2019898,2023-02-14,2023-02-21,West,Furniture,Chairs & Tables,Office Table,149.06,1,0.0,13.31,Customer 243,Corporate
+OD-2019899,2022-10-27,2022-10-30,East,Technology,Gadgets,Samsung Galaxy S21,81.77,1,0.0,28.54,Customer 282,Home Office
+OD-2019900,2019-09-08,2019-09-11,West,Technology,Gadgets,Laptop Pro 15,1135.77,2,0.0,215.34,Customer 185,Consumer
+OD-2019901,2023-11-04,2023-11-10,West,Furniture,Chairs & Tables,Office Chair,773.06,1,0.0,45.11,Customer 223,Corporate
+OD-2019902,2019-01-31,2019-02-02,East,Technology,Gadgets,Bluetooth Headset,124.23,4,0.05,12.08,Customer 203,Consumer
+OD-2019903,2019-01-19,2019-01-20,Central,Office Supplies,Stationery,Markers,97.45,3,0.25,4.76,Customer 80,Corporate
+OD-2019904,2023-04-28,2023-04-29,North,Furniture,Chairs & Tables,Wooden Desk,426.15,4,0.1,76.74,Customer 47,Home Office
+OD-2019905,2022-06-20,2022-06-23,East,Office Supplies,Stationery,Notebook Pack,214.04,2,0.0,69.6,Customer 183,Home Office
+OD-2019906,2019-11-12,2019-11-18,West,Office Supplies,Stationery,Notebook Pack,587.19,4,0.1,72.93,Customer 250,Consumer
+OD-2019907,2020-10-10,2020-10-15,North,Office Supplies,Stationery,Stapler,401.66,5,0.0,121.0,Customer 99,Consumer
+OD-2019908,2022-11-12,2022-11-16,South,Technology,Gadgets,Samsung Galaxy S21,127.95,4,0.0,35.43,Customer 21,Corporate
+OD-2019909,2022-12-18,2022-12-22,Central,Office Supplies,Stationery,Stapler,324.71,3,0.1,66.64,Customer 251,Consumer
+OD-2019910,2022-03-06,2022-03-08,South,Office Supplies,Stationery,Stapler,86.64,4,0.1,11.92,Customer 240,Corporate
+OD-2019911,2023-11-12,2023-11-19,West,Office Supplies,Stationery,Paper Reams,89.3,4,0.2,17.5,Customer 36,Home Office
+OD-2019912,2019-11-14,2019-11-18,Central,Technology,Gadgets,Laptop Pro 15,6182.43,5,0.1,1579.93,Customer 188,Corporate
+OD-2019913,2019-01-02,2019-01-09,North,Office Supplies,Stationery,Paper Reams,57.16,3,0.0,12.36,Customer 95,Consumer
+OD-2019914,2022-06-23,2022-06-30,West,Technology,Gadgets,Bluetooth Headset,6688.33,5,0.2,1155.39,Customer 165,Home Office
+OD-2019915,2019-05-10,2019-05-16,West,Office Supplies,Stationery,Markers,162.49,1,0.3,13.39,Customer 269,Home Office
+OD-2019916,2021-10-15,2021-10-22,Central,Office Supplies,Stationery,Pen Set,73.32,1,0.0,21.92,Customer 145,Corporate
+OD-2019917,2021-04-19,2021-04-25,East,Technology,Gadgets,iPhone 13,506.13,3,0.3,79.65,Customer 268,Home Office
+OD-2019918,2019-05-17,2019-05-18,East,Furniture,Chairs & Tables,Wooden Desk,836.23,1,0.0,164.5,Customer 104,Consumer
+OD-2019919,2021-09-21,2021-09-23,Central,Furniture,Chairs & Tables,Office Chair,641.08,4,0.1,91.97,Customer 199,Home Office
+OD-2019920,2021-09-30,2021-10-05,South,Office Supplies,Stationery,Paper Reams,216.66,4,0.0,48.05,Customer 26,Corporate
+OD-2019921,2020-03-28,2020-04-02,East,Office Supplies,Stationery,Notebook Pack,2221.64,4,0.05,735.33,Customer 107,Home Office
+OD-2019922,2021-10-03,2021-10-10,East,Furniture,Chairs & Tables,Filing Cabinet,3554.38,3,0.0,481.13,Customer 185,Home Office
+OD-2019923,2023-03-03,2023-03-07,Central,Technology,Gadgets,iPhone 13,443.72,4,0.0,52.27,Customer 137,Home Office
+OD-2019924,2019-03-25,2019-03-31,East,Furniture,Chairs & Tables,Bookcase,1554.57,2,0.05,333.28,Customer 111,Home Office
+OD-2019925,2019-07-18,2019-07-19,Central,Office Supplies,Stationery,Pen Set,1934.41,4,0.0,157.93,Customer 198,Consumer
+OD-2019926,2020-01-31,2020-02-05,Central,Office Supplies,Stationery,Pen Set,797.4,4,0.1,212.44,Customer 92,Home Office
+OD-2019927,2023-03-15,2023-03-20,Central,Technology,Gadgets,iPhone 13,2410.46,2,0.05,525.72,Customer 184,Home Office
+OD-2019928,2021-07-28,2021-08-03,East,Office Supplies,Stationery,Markers,784.63,1,0.3,117.23,Customer 86,Consumer
+OD-2019929,2022-01-31,2022-02-04,West,Office Supplies,Stationery,Stapler,677.24,4,0.0,218.29,Customer 274,Home Office
+OD-2019930,2021-06-26,2021-06-29,South,Technology,Gadgets,Bluetooth Headset,2180.17,4,0.15,280.18,Customer 191,Corporate
+OD-2019931,2023-04-15,2023-04-21,Central,Technology,Gadgets,Laptop Pro 15,316.78,3,0.15,88.11,Customer 124,Home Office
+OD-2019932,2022-01-22,2022-01-24,South,Technology,Gadgets,Bluetooth Headset,2791.6,5,0.0,949.04,Customer 185,Corporate
+OD-2019933,2021-07-05,2021-07-09,South,Furniture,Chairs & Tables,Office Chair,5453.42,4,0.1,697.79,Customer 9,Home Office
+OD-2019934,2019-10-04,2019-10-07,West,Furniture,Chairs & Tables,Bookcase,636.06,4,0.15,78.61,Customer 110,Corporate
+OD-2019935,2019-02-14,2019-02-21,Central,Office Supplies,Stationery,Stapler,1538.35,3,0.0,233.51,Customer 262,Home Office
+OD-2019936,2022-03-14,2022-03-19,East,Furniture,Chairs & Tables,Office Chair,216.32,4,0.3,28.09,Customer 236,Corporate
+OD-2019937,2019-11-16,2019-11-18,Central,Technology,Gadgets,Laptop Pro 15,1376.59,4,0.0,322.39,Customer 128,Consumer
+OD-2019938,2020-06-08,2020-06-15,Central,Technology,Gadgets,iPhone 13,809.74,5,0.0,238.16,Customer 205,Home Office
+OD-2019939,2020-03-21,2020-03-27,North,Furniture,Chairs & Tables,Bookcase,431.9,2,0.25,30.91,Customer 89,Corporate
+OD-2019940,2023-08-19,2023-08-25,East,Office Supplies,Stationery,Paper Reams,1070.36,2,0.1,164.19,Customer 154,Consumer
+OD-2019941,2023-02-05,2023-02-12,East,Office Supplies,Stationery,Markers,78.03,4,0.05,7.32,Customer 29,Corporate
+OD-2019942,2020-12-13,2020-12-20,East,Technology,Gadgets,Wireless Mouse,74.38,1,0.0,16.04,Customer 117,Home Office
+OD-2019943,2022-08-29,2022-09-05,North,Office Supplies,Stationery,Notebook Pack,969.72,2,0.0,122.45,Customer 28,Corporate
+OD-2019944,2021-12-09,2021-12-10,Central,Technology,Gadgets,Bluetooth Headset,126.72,4,0.1,25.98,Customer 77,Corporate
+OD-2019945,2021-10-25,2021-10-31,East,Furniture,Chairs & Tables,Wooden Desk,29.53,1,0.2,5.14,Customer 202,Corporate
+OD-2019946,2023-03-22,2023-03-27,East,Office Supplies,Stationery,Paper Reams,3687.51,3,0.1,687.31,Customer 114,Corporate
+OD-2019947,2020-08-16,2020-08-23,West,Technology,Gadgets,Samsung Galaxy S21,420.2,2,0.0,60.72,Customer 173,Consumer
+OD-2019948,2021-09-01,2021-09-06,Central,Office Supplies,Stationery,Notebook Pack,166.0,2,0.0,55.16,Customer 205,Corporate
+OD-2019949,2019-06-24,2019-06-28,West,Office Supplies,Stationery,Markers,918.04,1,0.0,154.45,Customer 70,Corporate
+OD-2019950,2022-02-19,2022-02-21,Central,Technology,Gadgets,Wireless Mouse,1332.4,4,0.05,223.79,Customer 101,Home Office
+OD-2019951,2022-06-15,2022-06-21,West,Office Supplies,Stationery,Pen Set,2822.53,5,0.0,806.62,Customer 37,Corporate
+OD-2019952,2023-05-10,2023-05-14,East,Technology,Gadgets,Bluetooth Headset,687.9,3,0.0,202.46,Customer 58,Home Office
+OD-2019953,2021-04-27,2021-05-01,West,Technology,Gadgets,Laptop Pro 15,1171.72,1,0.05,270.7,Customer 165,Corporate
+OD-2019954,2022-05-01,2022-05-07,West,Furniture,Chairs & Tables,Bookcase,731.56,5,0.0,137.39,Customer 180,Home Office
+OD-2019955,2023-08-10,2023-08-17,West,Technology,Gadgets,Bluetooth Headset,4154.06,5,0.0,1230.21,Customer 226,Consumer
+OD-2019956,2023-08-03,2023-08-05,West,Furniture,Chairs & Tables,Bookcase,5124.48,4,0.05,1411.48,Customer 44,Consumer
+OD-2019957,2023-02-23,2023-02-24,West,Furniture,Chairs & Tables,Office Table,312.97,2,0.05,16.17,Customer 148,Consumer
+OD-2019958,2020-12-04,2020-12-10,North,Furniture,Chairs & Tables,Bookcase,642.61,3,0.0,152.75,Customer 242,Consumer
+OD-2019959,2020-11-10,2020-11-12,West,Office Supplies,Stationery,Paper Reams,789.57,1,0.0,182.63,Customer 105,Home Office
+OD-2019960,2021-12-07,2021-12-14,North,Technology,Gadgets,Bluetooth Headset,210.94,2,0.0,52.73,Customer 73,Home Office
+OD-2019961,2022-12-02,2022-12-08,Central,Furniture,Chairs & Tables,Filing Cabinet,5896.04,5,0.0,652.62,Customer 270,Consumer
+OD-2019962,2020-06-07,2020-06-09,West,Furniture,Chairs & Tables,Bookcase,462.16,3,0.2,124.13,Customer 139,Consumer
+OD-2019963,2021-08-10,2021-08-16,North,Furniture,Chairs & Tables,Office Chair,903.71,3,0.0,173.81,Customer 139,Home Office
+OD-2019964,2023-10-12,2023-10-18,East,Technology,Gadgets,iPhone 13,286.55,3,0.1,53.16,Customer 150,Home Office
+OD-2019965,2021-03-02,2021-03-04,East,Technology,Gadgets,Bluetooth Headset,1592.36,3,0.25,77.16,Customer 162,Corporate
+OD-2019966,2023-11-11,2023-11-16,West,Office Supplies,Stationery,Notebook Pack,1130.55,2,0.05,199.08,Customer 102,Home Office
+OD-2019967,2021-07-26,2021-07-31,East,Office Supplies,Stationery,Notebook Pack,2562.82,2,0.05,451.56,Customer 127,Home Office
+OD-2019968,2020-09-16,2020-09-19,West,Technology,Gadgets,Wireless Mouse,975.39,2,0.0,200.51,Customer 10,Corporate
+OD-2019969,2022-11-02,2022-11-05,West,Technology,Gadgets,Laptop Pro 15,76.62,1,0.3,13.69,Customer 257,Corporate
+OD-2019970,2023-07-21,2023-07-22,North,Office Supplies,Stationery,Stapler,1467.77,3,0.05,301.77,Customer 16,Home Office
+OD-2019971,2020-07-27,2020-07-29,North,Furniture,Chairs & Tables,Bookcase,2282.01,2,0.1,498.14,Customer 71,Consumer
+OD-2019972,2023-02-03,2023-02-07,West,Office Supplies,Stationery,Paper Reams,1549.63,3,0.0,233.39,Customer 214,Consumer
+OD-2019973,2022-03-19,2022-03-21,Central,Technology,Gadgets,Laptop Pro 15,28.75,1,0.25,4.64,Customer 169,Corporate
+OD-2019974,2022-01-15,2022-01-17,Central,Furniture,Chairs & Tables,Wooden Desk,484.7,5,0.0,140.2,Customer 278,Home Office
+OD-2019975,2023-06-27,2023-06-29,Central,Furniture,Chairs & Tables,Bookcase,1695.02,2,0.05,526.12,Customer 70,Corporate
+OD-2019976,2023-04-27,2023-04-29,West,Office Supplies,Stationery,Paper Reams,161.33,5,0.1,44.01,Customer 163,Consumer
+OD-2019977,2022-02-15,2022-02-20,West,Office Supplies,Stationery,Notebook Pack,4499.45,5,0.15,448.99,Customer 163,Consumer
+OD-2019978,2023-01-29,2023-01-30,North,Technology,Gadgets,Wireless Mouse,20.64,1,0.3,1.51,Customer 156,Corporate
+OD-2019979,2023-03-08,2023-03-15,West,Office Supplies,Stationery,Stapler,100.09,3,0.0,26.97,Customer 97,Consumer
+OD-2019980,2019-09-27,2019-09-29,Central,Furniture,Chairs & Tables,Office Table,52.72,1,0.0,5.5,Customer 137,Home Office
+OD-2019981,2022-03-07,2022-03-12,West,Furniture,Chairs & Tables,Office Table,4512.11,5,0.1,763.02,Customer 119,Home Office
+OD-2019982,2019-02-23,2019-02-26,West,Furniture,Chairs & Tables,Filing Cabinet,1063.71,5,0.0,255.12,Customer 258,Home Office
+OD-2019983,2021-08-18,2021-08-24,West,Office Supplies,Stationery,Stapler,883.57,3,0.25,208.0,Customer 199,Corporate
+OD-2019984,2021-08-28,2021-08-30,West,Furniture,Chairs & Tables,Wooden Desk,2579.54,5,0.05,345.16,Customer 17,Corporate
+OD-2019985,2023-04-15,2023-04-16,West,Technology,Gadgets,Wireless Mouse,3721.24,3,0.05,806.49,Customer 104,Consumer
+OD-2019986,2019-05-16,2019-05-18,North,Technology,Gadgets,Bluetooth Headset,104.43,1,0.1,20.78,Customer 167,Corporate
+OD-2019987,2023-12-23,2023-12-25,East,Technology,Gadgets,Wireless Mouse,659.07,2,0.0,103.11,Customer 195,Home Office
+OD-2019988,2020-10-02,2020-10-06,Central,Office Supplies,Stationery,Paper Reams,163.48,2,0.0,44.7,Customer 275,Home Office
+OD-2019989,2022-08-06,2022-08-12,East,Furniture,Chairs & Tables,Office Table,109.7,1,0.1,19.4,Customer 232,Corporate
+OD-2019990,2023-08-21,2023-08-22,Central,Furniture,Chairs & Tables,Office Table,452.96,4,0.0,116.96,Customer 203,Home Office
+OD-2019991,2019-03-22,2019-03-27,East,Technology,Gadgets,Bluetooth Headset,1013.81,2,0.05,310.51,Customer 98,Corporate
+OD-2019992,2021-06-19,2021-06-23,North,Technology,Gadgets,Laptop Pro 15,726.2,5,0.0,59.11,Customer 86,Corporate
+OD-2019993,2020-08-25,2020-08-30,West,Furniture,Chairs & Tables,Office Table,638.86,3,0.0,37.87,Customer 238,Home Office
+OD-2019994,2021-07-14,2021-07-15,East,Office Supplies,Stationery,Paper Reams,77.36,1,0.05,23.44,Customer 93,Home Office
+OD-2019995,2022-11-26,2022-12-01,North,Furniture,Chairs & Tables,Filing Cabinet,1909.03,4,0.2,340.78,Customer 166,Corporate
+OD-2019996,2019-02-21,2019-02-23,West,Technology,Gadgets,Bluetooth Headset,32.26,1,0.15,6.4,Customer 233,Consumer
+OD-2019997,2020-05-27,2020-05-30,East,Office Supplies,Stationery,Pen Set,1596.64,3,0.0,208.58,Customer 47,Consumer
+OD-2019998,2022-12-17,2022-12-21,East,Office Supplies,Stationery,Stapler,1199.25,4,0.0,259.69,Customer 269,Home Office
+OD-2019999,2021-02-25,2021-03-03,West,Office Supplies,Stationery,Paper Reams,3853.9,5,0.15,338.06,Customer 194,Home Office
