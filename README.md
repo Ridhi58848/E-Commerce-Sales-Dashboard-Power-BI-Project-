@@ -31,8 +31,3 @@ This dashboard helps business analysts and sales teams:
 - Identify revenue gaps and opportunities.  
 - Support data-driven business decisions.
 
----
-
-✨ *Created by [Your Name]*  
-📅 *October 2025*  
-🔗 *GitHub Project Link:* [https://github.com/yourusername/Ecommerce-Sales-Dashboard](https://github.com/yourusername/Ecommerce-Sales-Dashboard)
